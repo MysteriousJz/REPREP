@@ -1,0 +1,5502 @@
+{
+  "metadata": {
+    "total_hexagrams": 64,
+    "total_files_found": 256,
+    "directories_scanned": 4,
+    "scan_timestamp": "2026-06-28T16:15:16.725171+00:00",
+    "missing_files_count": 16,
+    "directory_status": {
+      "zhou_yi": "found",
+      "jing_fang": "found",
+      "wang_bi": "found",
+      "forest_of_fates": "found"
+    }
+  },
+  "hexagrams": {
+    "1": {
+      "number": 1,
+      "symbol": "䷀",
+      "chinese_name": "乾",
+      "pinyin_name": "Qián",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷀乾 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷀乾 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 乾之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "2": {
+      "number": 2,
+      "symbol": "䷁",
+      "chinese_name": "坤",
+      "pinyin_name": "Kūn",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷁坤 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷁坤 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 坤之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "3": {
+      "number": 3,
+      "symbol": "䷂",
+      "chinese_name": "屯",
+      "pinyin_name": "Zhūn",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷂屯 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷂屯 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經乾傳卷一屯 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 屯之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "4": {
+      "number": 4,
+      "symbol": "䷃",
+      "chinese_name": "蒙",
+      "pinyin_name": "Méng",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷃蒙 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷃蒙 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 蒙之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "5": {
+      "number": 5,
+      "symbol": "䷄",
+      "chinese_name": "需",
+      "pinyin_name": "Xū",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷄需 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷄需 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 需之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "6": {
+      "number": 6,
+      "symbol": "䷅",
+      "chinese_name": "讼",
+      "pinyin_name": "Sòng",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷅訟 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷅訟 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二訟 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 訟之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "7": {
+      "number": 7,
+      "symbol": "䷆",
+      "chinese_name": "师",
+      "pinyin_name": "Shī",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷆師 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷆師 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 師之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "8": {
+      "number": 8,
+      "symbol": "䷇",
+      "chinese_name": "比",
+      "pinyin_name": "Bǐ",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷇比 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷇比 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 比之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "9": {
+      "number": 9,
+      "symbol": "䷈",
+      "chinese_name": "小畜",
+      "pinyin_name": "Xiǎo Chù",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷈小畜 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷈小畜 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二小畜 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 小畜之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "10": {
+      "number": 10,
+      "symbol": "䷉",
+      "chinese_name": "履",
+      "pinyin_name": "Lǚ",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷉履 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷉履 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 履之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "11": {
+      "number": 11,
+      "symbol": "䷊",
+      "chinese_name": "泰",
+      "pinyin_name": "Tài",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷊泰 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷊泰 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二泰 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 泰之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "12": {
+      "number": 12,
+      "symbol": "䷋",
+      "chinese_name": "否",
+      "pinyin_name": "Pǐ",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷋否 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷋否 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 否之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "13": {
+      "number": 13,
+      "symbol": "䷌",
+      "chinese_name": "同人",
+      "pinyin_name": "Tóng Rén",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷌同人 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷌同人 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二同人 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 同人之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "14": {
+      "number": 14,
+      "symbol": "䷍",
+      "chinese_name": "大有",
+      "pinyin_name": "Dà Yǒu",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷍大有 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷍大有 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二大有 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 大有之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "15": {
+      "number": 15,
+      "symbol": "䷎",
+      "chinese_name": "谦",
+      "pinyin_name": "Qiān",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷎謙 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷎謙 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二謙 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 謙之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "16": {
+      "number": 16,
+      "symbol": "䷏",
+      "chinese_name": "豫",
+      "pinyin_name": "Yù",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷏豫 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷏豫 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 豫之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "17": {
+      "number": 17,
+      "symbol": "䷐",
+      "chinese_name": "随",
+      "pinyin_name": "Suí",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷐隨 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷐隨 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 隨之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "18": {
+      "number": 18,
+      "symbol": "䷑",
+      "chinese_name": "蛊",
+      "pinyin_name": "Gǔ",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷑蠱 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷑蠱 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 蠱之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "19": {
+      "number": 19,
+      "symbol": "䷒",
+      "chinese_name": "临",
+      "pinyin_name": "Lín",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷒臨 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷒臨 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三臨 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 臨之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "20": {
+      "number": 20,
+      "symbol": "䷓",
+      "chinese_name": "观",
+      "pinyin_name": "Guān",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷓觀 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷓觀 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 觀之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "21": {
+      "number": 21,
+      "symbol": "䷔",
+      "chinese_name": "噬嗑",
+      "pinyin_name": "Shì Kè",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷔噬嗑 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷔噬嗑 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三噬嗑 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 噬嗑之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "22": {
+      "number": 22,
+      "symbol": "䷕",
+      "chinese_name": "贲",
+      "pinyin_name": "Bì",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷕賁 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷕賁 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 賁之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "23": {
+      "number": 23,
+      "symbol": "䷖",
+      "chinese_name": "剥",
+      "pinyin_name": "Bō",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷖剝 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷖剝 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三剝 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 剝之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "24": {
+      "number": 24,
+      "symbol": "䷗",
+      "chinese_name": "复",
+      "pinyin_name": "Fù",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷗復 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷗復 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 復之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "25": {
+      "number": 25,
+      "symbol": "䷘",
+      "chinese_name": "无妄",
+      "pinyin_name": "Wú Wàng",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷘无妄 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷘无妄 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三無妄 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 無妄之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "26": {
+      "number": 26,
+      "symbol": "䷙",
+      "chinese_name": "大畜",
+      "pinyin_name": "Dà Chù",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷙大畜 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷙大畜 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三大畜 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 大畜之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "27": {
+      "number": 27,
+      "symbol": "䷚",
+      "chinese_name": "颐",
+      "pinyin_name": "Yí",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷚頤 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷚頤 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三頤 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 頤之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "28": {
+      "number": 28,
+      "symbol": "䷛",
+      "chinese_name": "大过",
+      "pinyin_name": "Dà Guò",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷛大過 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷛大過 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三大過 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 大過之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "29": {
+      "number": 29,
+      "symbol": "䷜",
+      "chinese_name": "坎",
+      "pinyin_name": "Kǎn",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷜坎 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷜坎 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 坎之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "30": {
+      "number": 30,
+      "symbol": "䷝",
+      "chinese_name": "离",
+      "pinyin_name": "Lí",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷝離 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷝離 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三離 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 離之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "31": {
+      "number": 31,
+      "symbol": "䷞",
+      "chinese_name": "咸",
+      "pinyin_name": "Xián",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷞咸 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷞咸 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四咸 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 咸之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "32": {
+      "number": 32,
+      "symbol": "䷟",
+      "chinese_name": "恒",
+      "pinyin_name": "Héng",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷟恆 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷟恆 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四恆 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 恆之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "33": {
+      "number": 33,
+      "symbol": "䷠",
+      "chinese_name": "遯",
+      "pinyin_name": "Dùn",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷠遯 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷠遯 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四遯 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 遯之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "34": {
+      "number": 34,
+      "symbol": "䷡",
+      "chinese_name": "大壮",
+      "pinyin_name": "Dà Zhuàng",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷡大壯 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷡大壯 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四大壯 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 大壯之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "35": {
+      "number": 35,
+      "symbol": "䷢",
+      "chinese_name": "晋",
+      "pinyin_name": "Jìn",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷢晉 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷢晉 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四晉 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 晉之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "36": {
+      "number": 36,
+      "symbol": "䷣",
+      "chinese_name": "明夷",
+      "pinyin_name": "Míng Yí",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷣明夷 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷣明夷 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四明夷 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 明夷之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "37": {
+      "number": 37,
+      "symbol": "䷤",
+      "chinese_name": "家人",
+      "pinyin_name": "Jiā Rén",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷤家人 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷤家人 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四家人 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 家人之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "38": {
+      "number": 38,
+      "symbol": "䷥",
+      "chinese_name": "睽",
+      "pinyin_name": "Kuí",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷥睽 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷥睽 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四睽 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 睽之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "39": {
+      "number": 39,
+      "symbol": "䷦",
+      "chinese_name": "蹇",
+      "pinyin_name": "Jiǎn",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷦蹇 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷦蹇 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四蹇 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 蹇之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "40": {
+      "number": 40,
+      "symbol": "䷧",
+      "chinese_name": "解",
+      "pinyin_name": "Xiè",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷧解 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷧解 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四解 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 解之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "41": {
+      "number": 41,
+      "symbol": "䷨",
+      "chinese_name": "损",
+      "pinyin_name": "Sǔn",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷨損 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷨損 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四損 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 損之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "42": {
+      "number": 42,
+      "symbol": "䷩",
+      "chinese_name": "益",
+      "pinyin_name": "Yì",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Xùn Palace (巽宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷩益 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷩益 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經咸傳卷四益 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 益之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "43": {
+      "number": 43,
+      "symbol": "䷪",
+      "chinese_name": "夬",
+      "pinyin_name": "Guài",
+      "palace": "Kūn Palace (坤宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Kūn Palace (坤宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷪夬 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷪夬 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五夬 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 夬之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "44": {
+      "number": 44,
+      "symbol": "䷫",
+      "chinese_name": "姤",
+      "pinyin_name": "Gòu",
+      "palace": "Qián Palace (乾宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Qián Palace (乾宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷫姤 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷫姤 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五姤 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 姤之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "45": {
+      "number": 45,
+      "symbol": "䷬",
+      "chinese_name": "萃",
+      "pinyin_name": "Cuì",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷬萃 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷬萃 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 萃之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "46": {
+      "number": 46,
+      "symbol": "䷭",
+      "chinese_name": "升",
+      "pinyin_name": "Shēng",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷭升 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷭升 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五升 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 升之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "47": {
+      "number": 47,
+      "symbol": "䷮",
+      "chinese_name": "困",
+      "pinyin_name": "Kùn",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷮困 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷮困 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五困 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 困之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "48": {
+      "number": 48,
+      "symbol": "䷯",
+      "chinese_name": "井",
+      "pinyin_name": "Jǐng",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Zhèn Palace (震宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷯井 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷯井 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五井 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 井之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "49": {
+      "number": 49,
+      "symbol": "䷰",
+      "chinese_name": "革",
+      "pinyin_name": "Gé",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 5,
+      "palace_note": "Position 5 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷰革 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷰革 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 革之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "50": {
+      "number": 50,
+      "symbol": "䷱",
+      "chinese_name": "鼎",
+      "pinyin_name": "Dǐng",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 3,
+      "palace_note": "Position 3 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷱鼎 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷱鼎 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五鼎 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 鼎之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "51": {
+      "number": 51,
+      "symbol": "䷲",
+      "chinese_name": "震",
+      "pinyin_name": "Zhèn",
+      "palace": "Zhèn Palace (震宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷲震 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷲震 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五震 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 震之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "52": {
+      "number": 52,
+      "symbol": "䷳",
+      "chinese_name": "艮",
+      "pinyin_name": "Gèn",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷳艮 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷳艮 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五艮 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 艮之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "53": {
+      "number": 53,
+      "symbol": "䷴",
+      "chinese_name": "渐",
+      "pinyin_name": "Jiàn",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷴漸 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷴漸 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五漸 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 漸之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "54": {
+      "number": 54,
+      "symbol": "䷵",
+      "chinese_name": "归妹",
+      "pinyin_name": "Guī Mèi",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 8,
+      "palace_note": "Position 8 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷵歸妹 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷵歸妹 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五歸妹 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 歸妹之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "55": {
+      "number": 55,
+      "symbol": "䷶",
+      "chinese_name": "丰",
+      "pinyin_name": "Fēng",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷶豐 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷶豐 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 豐之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "56": {
+      "number": 56,
+      "symbol": "䷷",
+      "chinese_name": "旅",
+      "pinyin_name": "Lǚ",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷷旅 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷷旅 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六旅 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 旅之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "57": {
+      "number": 57,
+      "symbol": "䷸",
+      "chinese_name": "巽",
+      "pinyin_name": "Xùn",
+      "palace": "Xùn Palace (巽宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷸巽 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷸巽 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 巽之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "58": {
+      "number": 58,
+      "symbol": "䷹",
+      "chinese_name": "兑",
+      "pinyin_name": "Duì",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 1,
+      "palace_note": "Pure palace hexagram (八纯卦)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷹兌 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷹兌 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六兌 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 兌之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "59": {
+      "number": 59,
+      "symbol": "䷺",
+      "chinese_name": "涣",
+      "pinyin_name": "Huàn",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 6,
+      "palace_note": "Position 6 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷺渙 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷺渙 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六渙 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 渙之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "60": {
+      "number": 60,
+      "symbol": "䷻",
+      "chinese_name": "节",
+      "pinyin_name": "Jié",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 2,
+      "palace_note": "Position 2 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷻節 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷻節 - Chinese Text Project.html",
+        "wang_bi": null,
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 節之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "missing",
+        "forest_of_fates": "found"
+      }
+    },
+    "61": {
+      "number": 61,
+      "symbol": "䷼",
+      "chinese_name": "中孚",
+      "pinyin_name": "Zhōng Fú",
+      "palace": "Gèn Palace (艮宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Gèn Palace (艮宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷼中孚 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷼中孚 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六中孚 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 中孚之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "62": {
+      "number": 62,
+      "symbol": "䷽",
+      "chinese_name": "小过",
+      "pinyin_name": "Xiǎo Guò",
+      "palace": "Duì Palace (兑宫)",
+      "palace_position": 7,
+      "palace_note": "Position 7 within Duì Palace (兑宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷽小過 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷽小過 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六小過 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 小過之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "63": {
+      "number": 63,
+      "symbol": "䷾",
+      "chinese_name": "既济",
+      "pinyin_name": "Jì Jì",
+      "palace": "Kǎn Palace (坎宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Kǎn Palace (坎宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷾既濟 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷾既濟 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六既濟 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 既濟之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    },
+    "64": {
+      "number": 64,
+      "symbol": "䷿",
+      "chinese_name": "未济",
+      "pinyin_name": "Wèi Jì",
+      "palace": "Lí Palace (离宫)",
+      "palace_position": 4,
+      "palace_note": "Position 4 within Lí Palace (离宫)",
+      "files": {
+        "zhou_yi": "周易/周易 _ 易經 _ ䷿未濟 - 中國哲學書電子化計劃.html",
+        "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷿未濟 - Chinese Text Project.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六未濟 - 中國哲學書電子化計劃.html",
+        "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 未濟之 - Chinese Text Project.html"
+      },
+      "file_status": {
+        "zhou_yi": "found",
+        "jing_fang": "found",
+        "wang_bi": "found",
+        "forest_of_fates": "found"
+      }
+    }
+  },
+  "missing_files": [
+    {
+      "hexagram_number": 2,
+      "hexagram_name": "坤 (Kūn)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "坤",
+        "䷁",
+        "Kūn"
+      ]
+    },
+    {
+      "hexagram_number": 4,
+      "hexagram_name": "蒙 (Méng)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "蒙",
+        "䷃",
+        "Méng"
+      ]
+    },
+    {
+      "hexagram_number": 7,
+      "hexagram_name": "师 (Shī)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "师",
+        "䷆",
+        "Shī"
+      ]
+    },
+    {
+      "hexagram_number": 8,
+      "hexagram_name": "比 (Bǐ)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "比",
+        "䷇",
+        "Bǐ"
+      ]
+    },
+    {
+      "hexagram_number": 10,
+      "hexagram_name": "履 (Lǚ)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "履",
+        "䷉",
+        "Lǚ"
+      ]
+    },
+    {
+      "hexagram_number": 12,
+      "hexagram_name": "否 (Pǐ)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "否",
+        "䷋",
+        "Pǐ"
+      ]
+    },
+    {
+      "hexagram_number": 16,
+      "hexagram_name": "豫 (Yù)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "豫",
+        "䷏",
+        "Yù"
+      ]
+    },
+    {
+      "hexagram_number": 18,
+      "hexagram_name": "蛊 (Gǔ)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "蛊",
+        "䷑",
+        "Gǔ"
+      ]
+    },
+    {
+      "hexagram_number": 20,
+      "hexagram_name": "观 (Guān)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "观",
+        "䷓",
+        "Guān"
+      ]
+    },
+    {
+      "hexagram_number": 22,
+      "hexagram_name": "贲 (Bì)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "贲",
+        "䷕",
+        "Bì"
+      ]
+    },
+    {
+      "hexagram_number": 24,
+      "hexagram_name": "复 (Fù)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "复",
+        "䷗",
+        "Fù"
+      ]
+    },
+    {
+      "hexagram_number": 29,
+      "hexagram_name": "坎 (Kǎn)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "坎",
+        "䷜",
+        "Kǎn"
+      ]
+    },
+    {
+      "hexagram_number": 45,
+      "hexagram_name": "萃 (Cuì)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "萃",
+        "䷬",
+        "Cuì"
+      ]
+    },
+    {
+      "hexagram_number": 49,
+      "hexagram_name": "革 (Gé)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "革",
+        "䷰",
+        "Gé"
+      ]
+    },
+    {
+      "hexagram_number": 57,
+      "hexagram_name": "巽 (Xùn)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "巽",
+        "䷸",
+        "Xùn"
+      ]
+    },
+    {
+      "hexagram_number": 60,
+      "hexagram_name": "节 (Jié)",
+      "missing_source": "wang_bi",
+      "expected_patterns": [
+        "节",
+        "䷻",
+        "Jié"
+      ]
+    }
+  ],
+  "file_inventory": {
+    "zhou_yi": [
+      "周易/周易 _ 易經 _ ䷀乾 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷁坤 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷂屯 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷃蒙 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷄需 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷅訟 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷆師 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷇比 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷈小畜 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷉履 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷊泰 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷋否 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷌同人 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷍大有 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷎謙 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷏豫 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷐隨 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷑蠱 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷒臨 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷓觀 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷔噬嗑 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷕賁 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷖剝 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷗復 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷘无妄 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷙大畜 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷚頤 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷛大過 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷜坎 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷝離 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷞咸 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷟恆 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷠遯 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷡大壯 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷢晉 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷣明夷 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷤家人 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷥睽 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷦蹇 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷧解 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷨損 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷩益 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷪夬 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷫姤 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷬萃 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷭升 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷮困 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷯井 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷰革 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷱鼎 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷲震 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷳艮 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷴漸 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷵歸妹 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷶豐 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷷旅 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷸巽 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷹兌 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷺渙 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷻節 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷼中孚 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷽小過 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷾既濟 - 中國哲學書電子化計劃.html",
+      "周易/周易 _ 易經 _ ䷿未濟 - 中國哲學書電子化計劃.html"
+    ],
+    "jing_fang": [
+      "京氏易傳/Jingshi Yizhuan _ ䷀乾 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷁坤 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷂屯 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷃蒙 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷄需 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷅訟 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷆師 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷇比 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷈小畜 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷉履 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷊泰 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷋否 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷌同人 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷍大有 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷎謙 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷏豫 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷐隨 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷑蠱 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷒臨 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷓觀 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷔噬嗑 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷕賁 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷖剝 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷗復 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷘无妄 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷙大畜 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷚頤 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷛大過 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷜坎 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷝離 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷞咸 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷟恆 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷠遯 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷡大壯 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷢晉 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷣明夷 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷤家人 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷥睽 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷦蹇 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷧解 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷨損 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷩益 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷪夬 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷫姤 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷬萃 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷭升 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷮困 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷯井 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷰革 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷱鼎 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷲震 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷳艮 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷴漸 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷵歸妹 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷶豐 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷷旅 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷸巽 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷹兌 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷺渙 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷻節 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷼中孚 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷽小過 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷾既濟 - Chinese Text Project.html",
+      "京氏易傳/Jingshi Yizhuan _ ䷿未濟 - Chinese Text Project.html"
+    ],
+    "wang_bi": [
+      "周易注/周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經乾傳卷一坤 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經乾傳卷一屯 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經乾傳卷一蒙 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三剝 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三噬嗑 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三大畜 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三大過 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三無妄 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三臨 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三蠱 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三離 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經隨傳卷三頤 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二同人 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二大有 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二小畜 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二履 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二泰 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二訟 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二謙 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二豫 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四咸 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四大壯 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四家人 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四恆 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四損 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四明夷 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四晉 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四益 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四睽 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四解 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四蹇 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經咸傳卷四遯 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五井 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五升 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五困 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五夬 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五姤 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五歸妹 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五漸 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五艮 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五萃 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五震 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五革 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經夬傳卷五鼎 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六中孚 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六兌 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六小過 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六旅 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六既濟 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六未濟 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六渙 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六節 - 中國哲學書電子化計劃.html",
+      "周易注/周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html"
+    ],
+    "forest_of_fates": [
+      "焦氏易林/Jiaoshi Yilin _ 中孚之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 乾之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 井之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 兌之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 剝之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 升之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 同人之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 否之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 咸之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 噬嗑之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 困之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 坎之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 坤之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 大壯之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 大有之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 大畜之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 大過之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 夬之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 姤之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 家人之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 小畜之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 小過之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 履之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 屯之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 巽之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 師之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 復之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 恆之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 損之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 旅之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 既濟之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 明夷之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 晉之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 未濟之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 歸妹之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 比之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 泰之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 渙之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 漸之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 無妄之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 益之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 睽之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 節之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 臨之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 艮之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 萃之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 蒙之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 蠱之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 觀之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 解之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 訟之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 謙之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 豐之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 豫之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 賁之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 蹇之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 遯之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 隨之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 離之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 需之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 震之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 革之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 頤之 - Chinese Text Project.html",
+      "焦氏易林/Jiaoshi Yilin _ 鼎之 - Chinese Text Project.html"
+    ]
+  },
+  "file_catalog": {
+    "zhou_yi": [
+      {
+        "path": "周易/周易 _ 易經 _ ䷀乾 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷀乾 - 中國哲學書電子化計劃.html",
+        "size_bytes": 153414,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷀"
+          ],
+          "chinese_names": [
+            "乾"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 1
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷁坤 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷁坤 - 中國哲學書電子化計劃.html",
+        "size_bytes": 138351,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷁"
+          ],
+          "chinese_names": [
+            "坤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 2
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷂屯 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷂屯 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126008,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷂"
+          ],
+          "chinese_names": [
+            "屯"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 3
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷃蒙 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷃蒙 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125221,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷃"
+          ],
+          "chinese_names": [
+            "蒙"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 4
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷄需 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷄需 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124857,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷄"
+          ],
+          "chinese_names": [
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷅訟 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷅訟 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125811,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷅"
+          ],
+          "chinese_names": [
+            "讼"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 6
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷆師 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷆師 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125829,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷆"
+          ],
+          "chinese_names": [
+            "师"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 7
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷇比 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷇比 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124925,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷇"
+          ],
+          "chinese_names": [
+            "比"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 8
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷈小畜 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷈小畜 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125540,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷈"
+          ],
+          "chinese_names": [
+            "小畜"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 9
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷉履 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷉履 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125543,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷉"
+          ],
+          "chinese_names": [
+            "履"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 10
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷊泰 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷊泰 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126803,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷊"
+          ],
+          "chinese_names": [
+            "泰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 11
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷋否 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷋否 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124549,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷋"
+          ],
+          "chinese_names": [
+            "否"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 12
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷌同人 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷌同人 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124974,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷌"
+          ],
+          "chinese_names": [
+            "同人"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 13
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷍大有 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷍大有 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125604,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷍"
+          ],
+          "chinese_names": [
+            "大有"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 14
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷎謙 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷎謙 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126704,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷎"
+          ],
+          "chinese_names": [
+            "谦"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 15
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷏豫 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷏豫 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125705,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷏"
+          ],
+          "chinese_names": [
+            "豫"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 16
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷐隨 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷐隨 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125160,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷐"
+          ],
+          "chinese_names": [
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷑蠱 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷑蠱 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126362,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷑"
+          ],
+          "chinese_names": [
+            "蛊"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 18
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷒臨 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷒臨 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124442,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷒"
+          ],
+          "chinese_names": [
+            "临"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 19
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷓觀 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷓觀 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125643,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷓"
+          ],
+          "chinese_names": [
+            "观"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 20
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷔噬嗑 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷔噬嗑 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126196,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷔"
+          ],
+          "chinese_names": [
+            "噬嗑"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 21
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷕賁 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷕賁 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125403,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷕"
+          ],
+          "chinese_names": [
+            "贲"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 22
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷖剝 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷖剝 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125210,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷖"
+          ],
+          "chinese_names": [
+            "剥"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 23
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷗復 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷗復 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125477,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷗"
+          ],
+          "chinese_names": [
+            "复"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 24
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷘无妄 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷘无妄 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125591,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷘"
+          ],
+          "chinese_names": [
+            "无妄"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 25
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷙大畜 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷙大畜 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125434,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷙"
+          ],
+          "chinese_names": [
+            "大畜"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 26
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷚頤 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷚頤 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124909,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷚"
+          ],
+          "chinese_names": [
+            "颐"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 27
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷛大過 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷛大過 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125278,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷛"
+          ],
+          "chinese_names": [
+            "大过"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 28
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷜坎 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷜坎 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125053,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷜"
+          ],
+          "chinese_names": [
+            "坎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 29
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷝離 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷝離 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125704,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷝"
+          ],
+          "chinese_names": [
+            "离"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 30
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷞咸 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷞咸 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124973,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷞"
+          ],
+          "chinese_names": [
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 31
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷟恆 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷟恆 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124572,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷟"
+          ],
+          "chinese_names": [
+            "恒"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 32
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷠遯 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷠遯 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125476,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷠"
+          ],
+          "chinese_names": [
+            "遯"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 33
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷡大壯 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷡大壯 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125408,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷡"
+          ],
+          "chinese_names": [
+            "大壮"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 34
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷢晉 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷢晉 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125928,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷢"
+          ],
+          "chinese_names": [
+            "晋"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 35
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷣明夷 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷣明夷 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125589,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷣"
+          ],
+          "chinese_names": [
+            "明夷"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 36
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷤家人 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷤家人 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125196,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷤"
+          ],
+          "chinese_names": [
+            "家人"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 37
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷥睽 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷥睽 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125178,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷥"
+          ],
+          "chinese_names": [
+            "睽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 38
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷦蹇 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷦蹇 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126645,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷦"
+          ],
+          "chinese_names": [
+            "蹇"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 39
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷧解 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷧解 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124975,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷧"
+          ],
+          "chinese_names": [
+            "解"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 40
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷨損 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷨損 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124878,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷨"
+          ],
+          "chinese_names": [
+            "损"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 41
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷩益 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷩益 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125860,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷩"
+          ],
+          "chinese_names": [
+            "益"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 42
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷪夬 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷪夬 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125416,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷪"
+          ],
+          "chinese_names": [
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 43
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷫姤 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷫姤 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125189,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷫"
+          ],
+          "chinese_names": [
+            "姤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 44
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷬萃 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷬萃 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125778,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷬"
+          ],
+          "chinese_names": [
+            "萃"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 45
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷭升 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷭升 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125306,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷭"
+          ],
+          "chinese_names": [
+            "升"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 46
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷮困 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷮困 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126674,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷮"
+          ],
+          "chinese_names": [
+            "困"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 47
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷯井 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷯井 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125957,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷯"
+          ],
+          "chinese_names": [
+            "井"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 48
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷰革 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷰革 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124766,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷰"
+          ],
+          "chinese_names": [
+            "革"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 49
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷱鼎 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷱鼎 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125471,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷱"
+          ],
+          "chinese_names": [
+            "鼎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 50
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷲震 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷲震 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125332,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷲"
+          ],
+          "chinese_names": [
+            "震"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 51
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷳艮 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷳艮 - 中國哲學書電子化計劃.html",
+        "size_bytes": 124673,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷳"
+          ],
+          "chinese_names": [
+            "艮"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 52
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷴漸 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷴漸 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125676,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷴"
+          ],
+          "chinese_names": [
+            "渐"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 53
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷵歸妹 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷵歸妹 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125894,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷵"
+          ],
+          "chinese_names": [
+            "归妹"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 54
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷶豐 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷶豐 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126673,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷶"
+          ],
+          "chinese_names": [
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 55
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷷旅 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷷旅 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126488,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷷"
+          ],
+          "chinese_names": [
+            "旅"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 56
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷸巽 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷸巽 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125415,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷸"
+          ],
+          "chinese_names": [
+            "巽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 57
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷹兌 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷹兌 - 中國哲學書電子化計劃.html",
+        "size_bytes": 123116,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷹"
+          ],
+          "chinese_names": [
+            "兑"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 58
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷺渙 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷺渙 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125361,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷺"
+          ],
+          "chinese_names": [
+            "涣"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 59
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷻節 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷻節 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125596,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷻"
+          ],
+          "chinese_names": [
+            "节"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 60
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷼中孚 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷼中孚 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125563,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷼"
+          ],
+          "chinese_names": [
+            "中孚"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 61
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷽小過 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷽小過 - 中國哲學書電子化計劃.html",
+        "size_bytes": 126514,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷽"
+          ],
+          "chinese_names": [
+            "小过"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 62
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷾既濟 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷾既濟 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125513,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷾"
+          ],
+          "chinese_names": [
+            "既济"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 63
+      },
+      {
+        "path": "周易/周易 _ 易經 _ ䷿未濟 - 中國哲學書電子化計劃.html",
+        "filename": "周易 _ 易經 _ ䷿未濟 - 中國哲學書電子化計劃.html",
+        "size_bytes": 125031,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷿"
+          ],
+          "chinese_names": [
+            "未济"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 64
+      }
+    ],
+    "jing_fang": [
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷀乾 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷀乾 - Chinese Text Project.html",
+        "size_bytes": 64229,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷀"
+          ],
+          "chinese_names": [
+            "乾"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 1
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷁坤 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷁坤 - Chinese Text Project.html",
+        "size_bytes": 64317,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷁"
+          ],
+          "chinese_names": [
+            "坤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 2
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷂屯 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷂屯 - Chinese Text Project.html",
+        "size_bytes": 63921,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷂"
+          ],
+          "chinese_names": [
+            "屯"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 3
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷃蒙 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷃蒙 - Chinese Text Project.html",
+        "size_bytes": 64000,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷃"
+          ],
+          "chinese_names": [
+            "蒙"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 4
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷄需 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷄需 - Chinese Text Project.html",
+        "size_bytes": 64016,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷄"
+          ],
+          "chinese_names": [
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷅訟 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷅訟 - Chinese Text Project.html",
+        "size_bytes": 63970,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷅"
+          ],
+          "chinese_names": [
+            "讼"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 6
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷆師 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷆師 - Chinese Text Project.html",
+        "size_bytes": 64227,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷆"
+          ],
+          "chinese_names": [
+            "师"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 7
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷇比 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷇比 - Chinese Text Project.html",
+        "size_bytes": 63999,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷇"
+          ],
+          "chinese_names": [
+            "比"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 8
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷈小畜 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷈小畜 - Chinese Text Project.html",
+        "size_bytes": 64250,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷈"
+          ],
+          "chinese_names": [
+            "小畜"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 9
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷉履 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷉履 - Chinese Text Project.html",
+        "size_bytes": 63917,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷉"
+          ],
+          "chinese_names": [
+            "履"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 10
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷊泰 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷊泰 - Chinese Text Project.html",
+        "size_bytes": 64026,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷊"
+          ],
+          "chinese_names": [
+            "泰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 11
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷋否 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷋否 - Chinese Text Project.html",
+        "size_bytes": 64008,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷋"
+          ],
+          "chinese_names": [
+            "否"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 12
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷌同人 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷌同人 - Chinese Text Project.html",
+        "size_bytes": 64274,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷌"
+          ],
+          "chinese_names": [
+            "同人"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 13
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷍大有 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷍大有 - Chinese Text Project.html",
+        "size_bytes": 64002,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷍"
+          ],
+          "chinese_names": [
+            "大有"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 14
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷎謙 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷎謙 - Chinese Text Project.html",
+        "size_bytes": 63974,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷎"
+          ],
+          "chinese_names": [
+            "谦"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 15
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷏豫 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷏豫 - Chinese Text Project.html",
+        "size_bytes": 64079,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷏"
+          ],
+          "chinese_names": [
+            "豫"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 16
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷐隨 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷐隨 - Chinese Text Project.html",
+        "size_bytes": 64032,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷐"
+          ],
+          "chinese_names": [
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷑蠱 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷑蠱 - Chinese Text Project.html",
+        "size_bytes": 64118,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷑"
+          ],
+          "chinese_names": [
+            "蛊"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 18
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷒臨 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷒臨 - Chinese Text Project.html",
+        "size_bytes": 64125,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷒"
+          ],
+          "chinese_names": [
+            "临"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 19
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷓觀 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷓觀 - Chinese Text Project.html",
+        "size_bytes": 63904,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷓"
+          ],
+          "chinese_names": [
+            "观"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 20
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷔噬嗑 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷔噬嗑 - Chinese Text Project.html",
+        "size_bytes": 64050,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷔"
+          ],
+          "chinese_names": [
+            "噬嗑"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 21
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷕賁 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷕賁 - Chinese Text Project.html",
+        "size_bytes": 64044,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷕"
+          ],
+          "chinese_names": [
+            "贲"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 22
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷖剝 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷖剝 - Chinese Text Project.html",
+        "size_bytes": 63983,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷖"
+          ],
+          "chinese_names": [
+            "剥"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 23
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷗復 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷗復 - Chinese Text Project.html",
+        "size_bytes": 86296,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷗"
+          ],
+          "chinese_names": [
+            "复"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 24
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷘无妄 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷘无妄 - Chinese Text Project.html",
+        "size_bytes": 64099,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷘"
+          ],
+          "chinese_names": [
+            "无妄"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 25
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷙大畜 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷙大畜 - Chinese Text Project.html",
+        "size_bytes": 64170,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷙"
+          ],
+          "chinese_names": [
+            "大畜"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 26
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷚頤 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷚頤 - Chinese Text Project.html",
+        "size_bytes": 63915,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷚"
+          ],
+          "chinese_names": [
+            "颐"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 27
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷛大過 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷛大過 - Chinese Text Project.html",
+        "size_bytes": 86120,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷛"
+          ],
+          "chinese_names": [
+            "大过"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 28
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷜坎 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷜坎 - Chinese Text Project.html",
+        "size_bytes": 64014,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷜"
+          ],
+          "chinese_names": [
+            "坎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 29
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷝離 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷝離 - Chinese Text Project.html",
+        "size_bytes": 64019,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷝"
+          ],
+          "chinese_names": [
+            "离"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 30
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷞咸 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷞咸 - Chinese Text Project.html",
+        "size_bytes": 63967,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷞"
+          ],
+          "chinese_names": [
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 31
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷟恆 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷟恆 - Chinese Text Project.html",
+        "size_bytes": 63856,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷟"
+          ],
+          "chinese_names": [
+            "恒"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 32
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷠遯 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷠遯 - Chinese Text Project.html",
+        "size_bytes": 63996,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷠"
+          ],
+          "chinese_names": [
+            "遯"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 33
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷡大壯 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷡大壯 - Chinese Text Project.html",
+        "size_bytes": 64104,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷡"
+          ],
+          "chinese_names": [
+            "大壮"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 34
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷢晉 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷢晉 - Chinese Text Project.html",
+        "size_bytes": 63963,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷢"
+          ],
+          "chinese_names": [
+            "晋"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 35
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷣明夷 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷣明夷 - Chinese Text Project.html",
+        "size_bytes": 64063,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷣"
+          ],
+          "chinese_names": [
+            "明夷"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 36
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷤家人 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷤家人 - Chinese Text Project.html",
+        "size_bytes": 64147,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷤"
+          ],
+          "chinese_names": [
+            "家人"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 37
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷥睽 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷥睽 - Chinese Text Project.html",
+        "size_bytes": 86240,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷥"
+          ],
+          "chinese_names": [
+            "睽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 38
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷦蹇 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷦蹇 - Chinese Text Project.html",
+        "size_bytes": 63972,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷦"
+          ],
+          "chinese_names": [
+            "蹇"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 39
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷧解 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷧解 - Chinese Text Project.html",
+        "size_bytes": 86258,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷧"
+          ],
+          "chinese_names": [
+            "解"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 40
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷨損 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷨損 - Chinese Text Project.html",
+        "size_bytes": 63852,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷨"
+          ],
+          "chinese_names": [
+            "损"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 41
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷩益 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷩益 - Chinese Text Project.html",
+        "size_bytes": 64085,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷩"
+          ],
+          "chinese_names": [
+            "益"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 42
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷪夬 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷪夬 - Chinese Text Project.html",
+        "size_bytes": 64027,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷪"
+          ],
+          "chinese_names": [
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 43
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷫姤 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷫姤 - Chinese Text Project.html",
+        "size_bytes": 64133,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷫"
+          ],
+          "chinese_names": [
+            "姤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 44
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷬萃 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷬萃 - Chinese Text Project.html",
+        "size_bytes": 63921,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷬"
+          ],
+          "chinese_names": [
+            "萃"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 45
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷭升 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷭升 - Chinese Text Project.html",
+        "size_bytes": 63893,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷭"
+          ],
+          "chinese_names": [
+            "升"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 46
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷮困 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷮困 - Chinese Text Project.html",
+        "size_bytes": 64003,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷮"
+          ],
+          "chinese_names": [
+            "困"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 47
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷯井 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷯井 - Chinese Text Project.html",
+        "size_bytes": 64136,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷯"
+          ],
+          "chinese_names": [
+            "井"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 48
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷰革 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷰革 - Chinese Text Project.html",
+        "size_bytes": 86278,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷰"
+          ],
+          "chinese_names": [
+            "革"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 49
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷱鼎 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷱鼎 - Chinese Text Project.html",
+        "size_bytes": 64015,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷱"
+          ],
+          "chinese_names": [
+            "鼎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 50
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷲震 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷲震 - Chinese Text Project.html",
+        "size_bytes": 64048,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷲"
+          ],
+          "chinese_names": [
+            "震"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 51
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷳艮 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷳艮 - Chinese Text Project.html",
+        "size_bytes": 64047,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷳"
+          ],
+          "chinese_names": [
+            "艮"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 52
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷴漸 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷴漸 - Chinese Text Project.html",
+        "size_bytes": 63982,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷴"
+          ],
+          "chinese_names": [
+            "渐"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 53
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷵歸妹 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷵歸妹 - Chinese Text Project.html",
+        "size_bytes": 81366,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷵"
+          ],
+          "chinese_names": [
+            "归妹"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 54
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷶豐 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷶豐 - Chinese Text Project.html",
+        "size_bytes": 64225,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷶"
+          ],
+          "chinese_names": [
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 55
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷷旅 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷷旅 - Chinese Text Project.html",
+        "size_bytes": 64011,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷷"
+          ],
+          "chinese_names": [
+            "旅"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 56
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷸巽 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷸巽 - Chinese Text Project.html",
+        "size_bytes": 63933,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷸"
+          ],
+          "chinese_names": [
+            "巽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 57
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷹兌 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷹兌 - Chinese Text Project.html",
+        "size_bytes": 64017,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷹"
+          ],
+          "chinese_names": [
+            "兑"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 58
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷺渙 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷺渙 - Chinese Text Project.html",
+        "size_bytes": 64123,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷺"
+          ],
+          "chinese_names": [
+            "涣"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 59
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷻節 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷻節 - Chinese Text Project.html",
+        "size_bytes": 63850,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷻"
+          ],
+          "chinese_names": [
+            "节"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 60
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷼中孚 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷼中孚 - Chinese Text Project.html",
+        "size_bytes": 63962,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷼"
+          ],
+          "chinese_names": [
+            "中孚"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 61
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷽小過 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷽小過 - Chinese Text Project.html",
+        "size_bytes": 64116,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷽"
+          ],
+          "chinese_names": [
+            "小过"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 62
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷾既濟 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷾既濟 - Chinese Text Project.html",
+        "size_bytes": 86152,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷾"
+          ],
+          "chinese_names": [
+            "既济"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 63
+      },
+      {
+        "path": "京氏易傳/Jingshi Yizhuan _ ䷿未濟 - Chinese Text Project.html",
+        "filename": "Jingshi Yizhuan _ ䷿未濟 - Chinese Text Project.html",
+        "size_bytes": 63993,
+        "hexagram_identifiers": {
+          "symbols": [
+            "䷿"
+          ],
+          "chinese_names": [
+            "未济"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 64
+      }
+    ],
+    "wang_bi": [
+      {
+        "path": "周易注/周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
+        "size_bytes": 27605,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "乾"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 1
+      },
+      {
+        "path": "周易注/周易注 _ 上經乾傳卷一坤 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經乾傳卷一坤 - 中國哲學書電子化計劃.html",
+        "size_bytes": 23313,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "乾",
+            "坤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 1
+      },
+      {
+        "path": "周易注/周易注 _ 上經乾傳卷一屯 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經乾傳卷一屯 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19689,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "屯",
+            "乾"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 3
+      },
+      {
+        "path": "周易注/周易注 _ 上經乾傳卷一蒙 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經乾傳卷一蒙 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19791,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "乾",
+            "蒙"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 1
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三剝 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三剝 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18378,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "剥",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 23
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三噬嗑 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三噬嗑 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19297,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "噬嗑",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 21
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18936,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随",
+            "坎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三大畜 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三大畜 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18685,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大畜",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 26
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三大過 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三大過 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18001,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大过",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 28
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三無妄 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三無妄 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19072,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "无妄",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 25
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三臨 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三臨 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17613,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "临",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 19
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三蠱 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三蠱 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18786,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随",
+            "蛊"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18912,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随",
+            "复"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19140,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随",
+            "观"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19038,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随",
+            "贲"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18486,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三離 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三離 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19110,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "离",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 30
+      },
+      {
+        "path": "周易注/周易注 _ 上經隨傳卷三頤 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經隨傳卷三頤 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18855,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "颐",
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 27
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二同人 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二同人 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19300,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "同人",
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 13
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17757,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需",
+            "否"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二大有 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二大有 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19222,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大有",
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 14
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二小畜 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二小畜 - 中國哲學書電子化計劃.html",
+        "size_bytes": 20287,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "小畜",
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 9
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二履 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二履 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18543,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需",
+            "履"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17757,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需",
+            "师"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18522,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需",
+            "比"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二泰 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二泰 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19008,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "泰",
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 11
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二訟 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二訟 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18516,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "讼",
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 6
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二謙 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二謙 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18227,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "谦",
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 15
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二豫 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二豫 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17904,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需",
+            "豫"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易注/周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18681,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四咸 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四咸 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17922,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 31
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四大壯 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四大壯 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18604,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大壮",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 34
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四家人 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四家人 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19204,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "家人",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 37
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四恆 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四恆 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19106,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "恒",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 32
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四損 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四損 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19458,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "损",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 41
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四明夷 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四明夷 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18586,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "明夷",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 36
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四晉 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四晉 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18519,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "晋",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 35
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四益 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四益 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19782,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "益",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 42
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四睽 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四睽 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18852,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "睽",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 38
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四解 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四解 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19125,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "解",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 40
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四蹇 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四蹇 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17856,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "蹇",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 39
+      },
+      {
+        "path": "周易注/周易注 _ 下經咸傳卷四遯 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經咸傳卷四遯 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17568,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "遯",
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 33
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五井 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五井 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19368,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "井",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 48
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五升 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五升 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18459,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "升",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 46
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五困 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五困 - 中國哲學書電子化計劃.html",
+        "size_bytes": 21009,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "困",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 47
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五夬 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五夬 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19893,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 43
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五姤 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五姤 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17778,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "姤",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 44
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五歸妹 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五歸妹 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19546,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "归妹",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 54
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五漸 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五漸 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18105,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "渐",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 53
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五艮 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五艮 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19308,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "艮",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 52
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五萃 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五萃 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19740,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "夬",
+            "萃"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 43
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五震 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五震 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18753,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "震",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 51
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五革 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五革 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19473,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "夬",
+            "革"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 43
+      },
+      {
+        "path": "周易注/周易注 _ 下經夬傳卷五鼎 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經夬傳卷五鼎 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19026,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "鼎",
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 50
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六中孚 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六中孚 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19111,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "中孚",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 61
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六兌 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六兌 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18141,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "兑",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 58
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六小過 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六小過 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19176,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "小过",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 62
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
+        "size_bytes": 18792,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "丰",
+            "巽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 55
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六旅 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六旅 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19431,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "旅",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 56
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六既濟 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六既濟 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19405,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "既济",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 63
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六未濟 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六未濟 - 中國哲學書電子化計劃.html",
+        "size_bytes": 19750,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "未济",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 64
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六渙 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六渙 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17523,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "涣",
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 59
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六節 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六節 - 中國哲學書電子化計劃.html",
+        "size_bytes": 17037,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "丰",
+            "节"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 55
+      },
+      {
+        "path": "周易注/周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html",
+        "filename": "周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html",
+        "size_bytes": 20013,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 55
+      }
+    ],
+    "forest_of_fates": [
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 中孚之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 中孚之 - Chinese Text Project.html",
+        "size_bytes": 170703,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "中孚"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 61
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 乾之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 乾之 - Chinese Text Project.html",
+        "size_bytes": 170182,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "乾"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 1
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 井之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 井之 - Chinese Text Project.html",
+        "size_bytes": 166270,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "井"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 48
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 兌之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 兌之 - Chinese Text Project.html",
+        "size_bytes": 170980,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "兑"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 58
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 剝之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 剝之 - Chinese Text Project.html",
+        "size_bytes": 170395,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "剥"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 23
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 升之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 升之 - Chinese Text Project.html",
+        "size_bytes": 164666,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "升"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 46
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 同人之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 同人之 - Chinese Text Project.html",
+        "size_bytes": 170977,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "同人"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 13
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 否之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 否之 - Chinese Text Project.html",
+        "size_bytes": 169962,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "否"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 12
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 咸之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 咸之 - Chinese Text Project.html",
+        "size_bytes": 168141,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "咸"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 31
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 噬嗑之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 噬嗑之 - Chinese Text Project.html",
+        "size_bytes": 169516,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "噬嗑"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 21
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 困之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 困之 - Chinese Text Project.html",
+        "size_bytes": 165371,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "困"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 47
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 坎之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 坎之 - Chinese Text Project.html",
+        "size_bytes": 165021,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "坎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 29
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 坤之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 坤之 - Chinese Text Project.html",
+        "size_bytes": 170169,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "坤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 2
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 大壯之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 大壯之 - Chinese Text Project.html",
+        "size_bytes": 164838,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大壮"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 34
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 大有之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 大有之 - Chinese Text Project.html",
+        "size_bytes": 169376,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大有"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 14
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 大畜之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 大畜之 - Chinese Text Project.html",
+        "size_bytes": 170679,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大畜"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 26
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 大過之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 大過之 - Chinese Text Project.html",
+        "size_bytes": 167098,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "大过"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 28
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 夬之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 夬之 - Chinese Text Project.html",
+        "size_bytes": 168287,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "夬"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 43
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 姤之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 姤之 - Chinese Text Project.html",
+        "size_bytes": 167421,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "姤"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 44
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 家人之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 家人之 - Chinese Text Project.html",
+        "size_bytes": 168768,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "家人"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 37
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 小畜之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 小畜之 - Chinese Text Project.html",
+        "size_bytes": 171284,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "小畜"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 9
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 小過之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 小過之 - Chinese Text Project.html",
+        "size_bytes": 169146,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "小过"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 62
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 履之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 履之 - Chinese Text Project.html",
+        "size_bytes": 168298,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "履"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 10
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 屯之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 屯之 - Chinese Text Project.html",
+        "size_bytes": 168354,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "屯"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 3
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 巽之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 巽之 - Chinese Text Project.html",
+        "size_bytes": 170422,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "巽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 57
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 師之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 師之 - Chinese Text Project.html",
+        "size_bytes": 170601,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "师"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 7
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 復之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 復之 - Chinese Text Project.html",
+        "size_bytes": 167803,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "复"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 24
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 恆之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 恆之 - Chinese Text Project.html",
+        "size_bytes": 166593,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "恒"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 32
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 損之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 損之 - Chinese Text Project.html",
+        "size_bytes": 169701,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "损"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 41
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 旅之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 旅之 - Chinese Text Project.html",
+        "size_bytes": 169116,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "旅"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 56
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 既濟之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 既濟之 - Chinese Text Project.html",
+        "size_bytes": 169908,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "既济"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 63
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 明夷之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 明夷之 - Chinese Text Project.html",
+        "size_bytes": 168216,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "明夷"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 36
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 晉之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 晉之 - Chinese Text Project.html",
+        "size_bytes": 166182,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "晋"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 35
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 未濟之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 未濟之 - Chinese Text Project.html",
+        "size_bytes": 168928,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "未济"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 64
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 歸妹之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 歸妹之 - Chinese Text Project.html",
+        "size_bytes": 171786,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "归妹"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 54
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 比之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 比之 - Chinese Text Project.html",
+        "size_bytes": 170299,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "比"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 8
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 泰之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 泰之 - Chinese Text Project.html",
+        "size_bytes": 169765,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "泰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 11
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 渙之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 渙之 - Chinese Text Project.html",
+        "size_bytes": 169699,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "涣"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 59
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 漸之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 漸之 - Chinese Text Project.html",
+        "size_bytes": 169612,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "渐"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 53
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 無妄之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 無妄之 - Chinese Text Project.html",
+        "size_bytes": 168541,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "无妄"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 25
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 益之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 益之 - Chinese Text Project.html",
+        "size_bytes": 168013,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "益"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 42
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 睽之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 睽之 - Chinese Text Project.html",
+        "size_bytes": 167509,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "睽"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 38
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 節之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 節之 - Chinese Text Project.html",
+        "size_bytes": 166470,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "节"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 60
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 臨之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 臨之 - Chinese Text Project.html",
+        "size_bytes": 167484,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "临"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 19
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 艮之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 艮之 - Chinese Text Project.html",
+        "size_bytes": 169243,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "艮"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 52
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 萃之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 萃之 - Chinese Text Project.html",
+        "size_bytes": 165520,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "萃"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 45
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 蒙之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 蒙之 - Chinese Text Project.html",
+        "size_bytes": 169154,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "蒙"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 4
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 蠱之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 蠱之 - Chinese Text Project.html",
+        "size_bytes": 166999,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "蛊"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 18
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 觀之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 觀之 - Chinese Text Project.html",
+        "size_bytes": 168134,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "观"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 20
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 解之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 解之 - Chinese Text Project.html",
+        "size_bytes": 166473,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "解"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 40
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 訟之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 訟之 - Chinese Text Project.html",
+        "size_bytes": 169449,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "讼"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 6
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 謙之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 謙之 - Chinese Text Project.html",
+        "size_bytes": 170846,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "谦"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 15
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 豐之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 豐之 - Chinese Text Project.html",
+        "size_bytes": 170400,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "丰"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 55
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 豫之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 豫之 - Chinese Text Project.html",
+        "size_bytes": 169468,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "豫"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 16
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 賁之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 賁之 - Chinese Text Project.html",
+        "size_bytes": 170284,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "贲"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 22
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 蹇之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 蹇之 - Chinese Text Project.html",
+        "size_bytes": 166492,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "蹇"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 39
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 遯之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 遯之 - Chinese Text Project.html",
+        "size_bytes": 167226,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "遯"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 33
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 隨之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 隨之 - Chinese Text Project.html",
+        "size_bytes": 167958,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "随"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 17
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 離之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 離之 - Chinese Text Project.html",
+        "size_bytes": 167043,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "离"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 30
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 需之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 需之 - Chinese Text Project.html",
+        "size_bytes": 169862,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "需"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 5
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 震之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 震之 - Chinese Text Project.html",
+        "size_bytes": 170593,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "震"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 51
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 革之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 革之 - Chinese Text Project.html",
+        "size_bytes": 170451,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "革"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 49
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 頤之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 頤之 - Chinese Text Project.html",
+        "size_bytes": 167133,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "颐"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 27
+      },
+      {
+        "path": "焦氏易林/Jiaoshi Yilin _ 鼎之 - Chinese Text Project.html",
+        "filename": "Jiaoshi Yilin _ 鼎之 - Chinese Text Project.html",
+        "size_bytes": 168622,
+        "hexagram_identifiers": {
+          "symbols": [],
+          "chinese_names": [
+            "鼎"
+          ],
+          "romanized_tokens": []
+        },
+        "matched_hexagram_number": 50
+      }
+    ]
+  },
+  "unmatched_files": {
+    "zhou_yi": [],
+    "jing_fang": [],
+    "wang_bi": [],
+    "forest_of_fates": []
+  },
+  "anomalies": {
+    "multiple_files_for_same_hexagram": [
+      {
+        "source": "wang_bi",
+        "hexagram_number": 1,
+        "paths": [
+          "周易注/周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經乾傳卷一坤 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經乾傳卷一蒙 - 中國哲學書電子化計劃.html"
+        ]
+      },
+      {
+        "source": "wang_bi",
+        "hexagram_number": 5,
+        "paths": [
+          "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經需傳卷二履 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經需傳卷二豫 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html"
+        ]
+      },
+      {
+        "source": "wang_bi",
+        "hexagram_number": 17,
+        "paths": [
+          "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經隨傳卷三蠱 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html"
+        ]
+      },
+      {
+        "source": "wang_bi",
+        "hexagram_number": 43,
+        "paths": [
+          "周易注/周易注 _ 下經夬傳卷五夬 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 下經夬傳卷五萃 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 下經夬傳卷五革 - 中國哲學書電子化計劃.html"
+        ]
+      },
+      {
+        "source": "wang_bi",
+        "hexagram_number": 55,
+        "paths": [
+          "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 下經豐傳卷六節 - 中國哲學書電子化計劃.html",
+          "周易注/周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html"
+        ]
+      }
+    ]
+  }
+}
