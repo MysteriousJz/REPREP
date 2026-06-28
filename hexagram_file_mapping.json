@@ -3,8 +3,8 @@
     "total_hexagrams": 64,
     "total_files_found": 256,
     "directories_scanned": 4,
-    "scan_timestamp": "2026-06-28T16:15:16.725171+00:00",
-    "missing_files_count": 16,
+    "scan_timestamp": "2026-06-28T16:16:28.816710+00:00",
+    "missing_files_count": 0,
     "directory_status": {
       "zhou_yi": "found",
       "jing_fang": "found",
@@ -45,13 +45,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷁坤 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷁坤 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經乾傳卷一坤 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 坤之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -87,13 +87,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷃蒙 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷃蒙 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經乾傳卷一蒙 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 蒙之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -108,7 +108,7 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷄需 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷄需 - Chinese Text Project.html",
-        "wang_bi": "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 需之 - Chinese Text Project.html"
       },
       "file_status": {
@@ -150,13 +150,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷆師 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷆師 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 師之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -171,13 +171,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷇比 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷇比 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 比之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -213,13 +213,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷉履 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷉履 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二履 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 履之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -255,13 +255,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷋否 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷋否 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 否之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -339,13 +339,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷏豫 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷏豫 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經需傳卷二豫 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 豫之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -360,7 +360,7 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷐隨 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷐隨 - Chinese Text Project.html",
-        "wang_bi": "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 隨之 - Chinese Text Project.html"
       },
       "file_status": {
@@ -381,13 +381,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷑蠱 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷑蠱 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三蠱 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 蠱之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -423,13 +423,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷓觀 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷓觀 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 觀之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -465,13 +465,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷕賁 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷕賁 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 賁之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -507,13 +507,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷗復 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷗復 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 復之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -612,13 +612,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷜坎 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷜坎 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 坎之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -948,13 +948,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷬萃 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷬萃 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五萃 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 萃之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -1032,13 +1032,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷰革 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷰革 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 下經夬傳卷五革 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 革之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -1158,7 +1158,7 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷶豐 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷶豐 - Chinese Text Project.html",
-        "wang_bi": "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 豐之 - Chinese Text Project.html"
       },
       "file_status": {
@@ -1200,13 +1200,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷸巽 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷸巽 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 巽之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -1263,13 +1263,13 @@
       "files": {
         "zhou_yi": "周易/周易 _ 易經 _ ䷻節 - 中國哲學書電子化計劃.html",
         "jing_fang": "京氏易傳/Jingshi Yizhuan _ ䷻節 - Chinese Text Project.html",
-        "wang_bi": null,
+        "wang_bi": "周易注/周易注 _ 下經豐傳卷六節 - 中國哲學書電子化計劃.html",
         "forest_of_fates": "焦氏易林/Jiaoshi Yilin _ 節之 - Chinese Text Project.html"
       },
       "file_status": {
         "zhou_yi": "found",
         "jing_fang": "found",
-        "wang_bi": "missing",
+        "wang_bi": "found",
         "forest_of_fates": "found"
       }
     },
@@ -1358,168 +1358,7 @@
       }
     }
   },
-  "missing_files": [
-    {
-      "hexagram_number": 2,
-      "hexagram_name": "坤 (Kūn)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "坤",
-        "䷁",
-        "Kūn"
-      ]
-    },
-    {
-      "hexagram_number": 4,
-      "hexagram_name": "蒙 (Méng)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "蒙",
-        "䷃",
-        "Méng"
-      ]
-    },
-    {
-      "hexagram_number": 7,
-      "hexagram_name": "师 (Shī)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "师",
-        "䷆",
-        "Shī"
-      ]
-    },
-    {
-      "hexagram_number": 8,
-      "hexagram_name": "比 (Bǐ)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "比",
-        "䷇",
-        "Bǐ"
-      ]
-    },
-    {
-      "hexagram_number": 10,
-      "hexagram_name": "履 (Lǚ)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "履",
-        "䷉",
-        "Lǚ"
-      ]
-    },
-    {
-      "hexagram_number": 12,
-      "hexagram_name": "否 (Pǐ)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "否",
-        "䷋",
-        "Pǐ"
-      ]
-    },
-    {
-      "hexagram_number": 16,
-      "hexagram_name": "豫 (Yù)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "豫",
-        "䷏",
-        "Yù"
-      ]
-    },
-    {
-      "hexagram_number": 18,
-      "hexagram_name": "蛊 (Gǔ)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "蛊",
-        "䷑",
-        "Gǔ"
-      ]
-    },
-    {
-      "hexagram_number": 20,
-      "hexagram_name": "观 (Guān)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "观",
-        "䷓",
-        "Guān"
-      ]
-    },
-    {
-      "hexagram_number": 22,
-      "hexagram_name": "贲 (Bì)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "贲",
-        "䷕",
-        "Bì"
-      ]
-    },
-    {
-      "hexagram_number": 24,
-      "hexagram_name": "复 (Fù)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "复",
-        "䷗",
-        "Fù"
-      ]
-    },
-    {
-      "hexagram_number": 29,
-      "hexagram_name": "坎 (Kǎn)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "坎",
-        "䷜",
-        "Kǎn"
-      ]
-    },
-    {
-      "hexagram_number": 45,
-      "hexagram_name": "萃 (Cuì)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "萃",
-        "䷬",
-        "Cuì"
-      ]
-    },
-    {
-      "hexagram_number": 49,
-      "hexagram_name": "革 (Gé)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "革",
-        "䷰",
-        "Gé"
-      ]
-    },
-    {
-      "hexagram_number": 57,
-      "hexagram_name": "巽 (Xùn)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "巽",
-        "䷸",
-        "Xùn"
-      ]
-    },
-    {
-      "hexagram_number": 60,
-      "hexagram_name": "节 (Jié)",
-      "missing_source": "wang_bi",
-      "expected_patterns": [
-        "节",
-        "䷻",
-        "Jié"
-      ]
-    }
-  ],
+  "missing_files": [],
   "file_inventory": {
     "zhou_yi": [
       "周易/周易 _ 易經 _ ䷀乾 - 中國哲學書電子化計劃.html",
@@ -3737,7 +3576,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 1
+        "matched_hexagram_number": 2
       },
       {
         "path": "周易注/周易注 _ 上經乾傳卷一屯 - 中國哲學書電子化計劃.html",
@@ -3746,8 +3585,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "屯",
-            "乾"
+            "乾",
+            "屯"
           ],
           "romanized_tokens": []
         },
@@ -3765,7 +3604,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 1
+        "matched_hexagram_number": 4
       },
       {
         "path": "周易注/周易注 _ 上經隨傳卷三剝 - 中國哲學書電子化計劃.html",
@@ -3802,12 +3641,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "随",
-            "坎"
+            "坎",
+            "随"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 17
+        "matched_hexagram_number": 29
       },
       {
         "path": "周易注/周易注 _ 上經隨傳卷三大畜 - 中國哲學書電子化計劃.html",
@@ -3872,12 +3711,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "随",
-            "蛊"
+            "蛊",
+            "随"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 17
+        "matched_hexagram_number": 18
       },
       {
         "path": "周易注/周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
@@ -3886,12 +3725,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "随",
-            "复"
+            "复",
+            "随"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 17
+        "matched_hexagram_number": 24
       },
       {
         "path": "周易注/周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
@@ -3900,12 +3739,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "随",
-            "观"
+            "观",
+            "随"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 17
+        "matched_hexagram_number": 20
       },
       {
         "path": "周易注/周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
@@ -3914,12 +3753,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "随",
-            "贲"
+            "贲",
+            "随"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 17
+        "matched_hexagram_number": 22
       },
       {
         "path": "周易注/周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html",
@@ -3988,7 +3827,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 5
+        "matched_hexagram_number": 12
       },
       {
         "path": "周易注/周易注 _ 上經需傳卷二大有 - 中國哲學書電子化計劃.html",
@@ -4030,7 +3869,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 5
+        "matched_hexagram_number": 10
       },
       {
         "path": "周易注/周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
@@ -4044,7 +3883,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 5
+        "matched_hexagram_number": 7
       },
       {
         "path": "周易注/周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
@@ -4058,7 +3897,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 5
+        "matched_hexagram_number": 8
       },
       {
         "path": "周易注/周易注 _ 上經需傳卷二泰 - 中國哲學書電子化計劃.html",
@@ -4067,8 +3906,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "泰",
-            "需"
+            "需",
+            "泰"
           ],
           "romanized_tokens": []
         },
@@ -4081,8 +3920,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "讼",
-            "需"
+            "需",
+            "讼"
           ],
           "romanized_tokens": []
         },
@@ -4095,8 +3934,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "谦",
-            "需"
+            "需",
+            "谦"
           ],
           "romanized_tokens": []
         },
@@ -4114,7 +3953,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 5
+        "matched_hexagram_number": 16
       },
       {
         "path": "周易注/周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html",
@@ -4177,8 +4016,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "恒",
-            "咸"
+            "咸",
+            "恒"
           ],
           "romanized_tokens": []
         },
@@ -4191,8 +4030,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "损",
-            "咸"
+            "咸",
+            "损"
           ],
           "romanized_tokens": []
         },
@@ -4219,8 +4058,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "晋",
-            "咸"
+            "咸",
+            "晋"
           ],
           "romanized_tokens": []
         },
@@ -4233,8 +4072,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "益",
-            "咸"
+            "咸",
+            "益"
           ],
           "romanized_tokens": []
         },
@@ -4247,8 +4086,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "睽",
-            "咸"
+            "咸",
+            "睽"
           ],
           "romanized_tokens": []
         },
@@ -4261,8 +4100,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "解",
-            "咸"
+            "咸",
+            "解"
           ],
           "romanized_tokens": []
         },
@@ -4275,8 +4114,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "蹇",
-            "咸"
+            "咸",
+            "蹇"
           ],
           "romanized_tokens": []
         },
@@ -4289,8 +4128,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "遯",
-            "咸"
+            "咸",
+            "遯"
           ],
           "romanized_tokens": []
         },
@@ -4303,8 +4142,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "井",
-            "夬"
+            "夬",
+            "井"
           ],
           "romanized_tokens": []
         },
@@ -4317,8 +4156,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "升",
-            "夬"
+            "夬",
+            "升"
           ],
           "romanized_tokens": []
         },
@@ -4331,8 +4170,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "困",
-            "夬"
+            "夬",
+            "困"
           ],
           "romanized_tokens": []
         },
@@ -4358,8 +4197,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "姤",
-            "夬"
+            "夬",
+            "姤"
           ],
           "romanized_tokens": []
         },
@@ -4386,8 +4225,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "渐",
-            "夬"
+            "夬",
+            "渐"
           ],
           "romanized_tokens": []
         },
@@ -4400,8 +4239,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "艮",
-            "夬"
+            "夬",
+            "艮"
           ],
           "romanized_tokens": []
         },
@@ -4419,7 +4258,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 43
+        "matched_hexagram_number": 45
       },
       {
         "path": "周易注/周易注 _ 下經夬傳卷五震 - 中國哲學書電子化計劃.html",
@@ -4428,8 +4267,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "震",
-            "夬"
+            "夬",
+            "震"
           ],
           "romanized_tokens": []
         },
@@ -4447,7 +4286,7 @@
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 43
+        "matched_hexagram_number": 49
       },
       {
         "path": "周易注/周易注 _ 下經夬傳卷五鼎 - 中國哲學書電子化計劃.html",
@@ -4456,8 +4295,8 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "鼎",
-            "夬"
+            "夬",
+            "鼎"
           ],
           "romanized_tokens": []
         },
@@ -4512,12 +4351,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "丰",
-            "巽"
+            "巽",
+            "丰"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 55
+        "matched_hexagram_number": 57
       },
       {
         "path": "周易注/周易注 _ 下經豐傳卷六旅 - 中國哲學書電子化計劃.html",
@@ -4582,12 +4421,12 @@
         "hexagram_identifiers": {
           "symbols": [],
           "chinese_names": [
-            "丰",
-            "节"
+            "节",
+            "丰"
           ],
           "romanized_tokens": []
         },
-        "matched_hexagram_number": 55
+        "matched_hexagram_number": 60
       },
       {
         "path": "周易注/周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html",
@@ -5445,58 +5284,6 @@
     "forest_of_fates": []
   },
   "anomalies": {
-    "multiple_files_for_same_hexagram": [
-      {
-        "source": "wang_bi",
-        "hexagram_number": 1,
-        "paths": [
-          "周易注/周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經乾傳卷一坤 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經乾傳卷一蒙 - 中國哲學書電子化計劃.html"
-        ]
-      },
-      {
-        "source": "wang_bi",
-        "hexagram_number": 5,
-        "paths": [
-          "周易注/周易注 _ 上經需傳卷二否 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經需傳卷二履 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經需傳卷二師 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經需傳卷二比 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經需傳卷二豫 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經需傳卷二需 - 中國哲學書電子化計劃.html"
-        ]
-      },
-      {
-        "source": "wang_bi",
-        "hexagram_number": 17,
-        "paths": [
-          "周易注/周易注 _ 上經隨傳卷三坎 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經隨傳卷三蠱 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經隨傳卷三複 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經隨傳卷三觀 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經隨傳卷三賁 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 上經隨傳卷三隨 - 中國哲學書電子化計劃.html"
-        ]
-      },
-      {
-        "source": "wang_bi",
-        "hexagram_number": 43,
-        "paths": [
-          "周易注/周易注 _ 下經夬傳卷五夬 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 下經夬傳卷五萃 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 下經夬傳卷五革 - 中國哲學書電子化計劃.html"
-        ]
-      },
-      {
-        "source": "wang_bi",
-        "hexagram_number": 55,
-        "paths": [
-          "周易注/周易注 _ 下經豐傳卷六巽 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 下經豐傳卷六節 - 中國哲學書電子化計劃.html",
-          "周易注/周易注 _ 下經豐傳卷六豐 - 中國哲學書電子化計劃.html"
-        ]
-      }
-    ]
+    "multiple_files_for_same_hexagram": []
   }
 }

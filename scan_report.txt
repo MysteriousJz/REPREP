@@ -1,6 +1,6 @@
 Hexagram File Scan Report
 ========================
-Scan timestamp: 2026-06-28T16:15:16.725171+00:00
+Scan timestamp: 2026-06-28T16:16:28.816710+00:00
 
 Directory summary:
 - zhou_yi (周易): 64 HTML files
@@ -10,43 +10,23 @@ Directory summary:
 - Total files: 256
 
 Questions addressed:
-1) Multiple files per hexagram in same directory: Yes
-   - wang_bi hexagram 1: 3 files
-   - wang_bi hexagram 5: 6 files
-   - wang_bi hexagram 17: 6 files
-   - wang_bi hexagram 43: 3 files
-   - wang_bi hexagram 55: 3 files
-2) Unmatched files:
+1) Multiple files per hexagram in same directory: No
+2) Unmatched files that do not map to known hexagrams:
    - Total unmatched files: 0
    - zhou_yi: 0
    - jing_fang: 0
    - wang_bi: 0
    - forest_of_fates: 0
-3) 京氏易傳 and 周易注 organization vs 周易:
-   - 京氏易傳: very similar to 周易 (one file per hexagram, includes hexagram symbol+name).
-   - 周易注: one file per hexagram but naming uses卷/傳 metadata and often traditional character forms.
+3) Do 京氏易傳 and 周易注 share the same organization as 周易?
+   - 京氏易傳: Yes, one file per hexagram and symbol-based naming like 周易.
+   - 周易注: One file per hexagram but uses commentary-volume naming and traditional variants.
 4) Naming consistency across directories:
-   - 周易/京氏易傳 are highly consistent with ䷀-䷿ symbols.
-   - 焦氏易林 uses "<hexagram>之" format without symbols.
-   - 周易注 uses title +卷次 + hexagram name, frequently in traditional forms.
+   - 周易 / 京氏易傳: ䷀-䷿ + hexagram name pattern.
+   - 焦氏易林: <hexagram>之 pattern.
+   - 周易注: title + 卷 metadata + terminal hexagram name.
 
 Missing files list:
-- Hexagram 2 坤 (Kūn) missing in wang_bi
-- Hexagram 4 蒙 (Méng) missing in wang_bi
-- Hexagram 7 师 (Shī) missing in wang_bi
-- Hexagram 8 比 (Bǐ) missing in wang_bi
-- Hexagram 10 履 (Lǚ) missing in wang_bi
-- Hexagram 12 否 (Pǐ) missing in wang_bi
-- Hexagram 16 豫 (Yù) missing in wang_bi
-- Hexagram 18 蛊 (Gǔ) missing in wang_bi
-- Hexagram 20 观 (Guān) missing in wang_bi
-- Hexagram 22 贲 (Bì) missing in wang_bi
-- Hexagram 24 复 (Fù) missing in wang_bi
-- Hexagram 29 坎 (Kǎn) missing in wang_bi
-- Hexagram 45 萃 (Cuì) missing in wang_bi
-- Hexagram 49 革 (Gé) missing in wang_bi
-- Hexagram 57 巽 (Xùn) missing in wang_bi
-- Hexagram 60 节 (Jié) missing in wang_bi
+- None. All source files for all 64 hexagrams were found.
 
 Anomalies / unexpected patterns:
-- Duplicate mapping entries found (same source and hexagram matched by multiple files).
+- No unmatched files and no duplicate mappings were detected.
