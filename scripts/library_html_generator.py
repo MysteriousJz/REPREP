@@ -41,7 +41,6 @@ def _render_glossary(glossary: LibraryGlossary) -> str:
             f"<div class=\"glossary-char\">{escape(entry.char)}</div>"
             f"<div class=\"glossary-pinyin\">{escape(entry.pinyin)}</div>"
             f"<div class=\"glossary-definition\">{escape(entry.definition)}</div>"
-            f"<div class=\"glossary-locations\">{escape(', '.join(entry.references))}</div>"
             "</div>"
         )
     return "\n".join(entries)
@@ -78,8 +77,6 @@ def _base_head(title: str) -> str:
       font-size: 18pt;
       border-bottom: 1px solid #333;
       margin: 0 0 0.15in 0;
-      page-break-before: always;
-      break-before: page;
     }}
 
     .subtitle {{
@@ -89,24 +86,18 @@ def _base_head(title: str) -> str:
       font-size: {PRINT_LAYOUT.subtitle_size};
     }}
 
-    .major-section {{ page-break-inside: avoid; break-inside: avoid-page; }}
-
     .text-row {{
       display: grid;
       grid-template-columns: 1fr 1fr;
       column-gap: 0.35in;
       padding: 0.06in 0;
       border-bottom: 1px dotted #ddd;
-      page-break-inside: avoid;
-      break-inside: avoid;
     }}
 
     .text-row .zh {{ font-size: {PRINT_LAYOUT.line_chinese}; letter-spacing: 0.02em; }}
     .text-row .py {{ font-size: {PRINT_LAYOUT.line_pinyin}; color: #444; }}
 
     .entry-card {{
-      page-break-inside: avoid;
-      break-inside: avoid-page;
       margin-bottom: 0.18in;
       padding-bottom: 0.1in;
       border-bottom: 1px solid #eee;
@@ -129,24 +120,12 @@ def _base_head(title: str) -> str:
       border: 1px solid #ddd;
       padding: 0.08in;
       border-radius: 4px;
-      break-inside: avoid;
-      page-break-inside: avoid;
       background: #fafafa;
     }}
 
     .glossary-char {{ font-size: {PRINT_LAYOUT.glossary_char}; font-weight: 700; line-height: 1; }}
     .glossary-pinyin {{ font-size: {PRINT_LAYOUT.glossary_pinyin}; color: #555; margin-top: 0.03in; }}
     .glossary-definition {{ font-size: {PRINT_LAYOUT.glossary_definition}; margin-top: 0.03in; }}
-    .glossary-locations {{ font-size: {PRINT_LAYOUT.glossary_locations}; color: #666; margin-top: 0.03in; font-family: monospace; }}
-
-    .page-list {{
-      margin-top: 0.1in;
-      font-size: 11pt;
-    }}
-
-    @media print {{
-      h2 {{ page-break-after: avoid; break-after: avoid-page; }}
-    }}
   </style>
 </head>
 <body>

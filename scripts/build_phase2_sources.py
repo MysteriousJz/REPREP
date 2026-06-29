@@ -190,8 +190,8 @@ def _build_html(
       background-color: #fefefe;
       color: #222;
     }}
-    h1 {{ font-size: 32pt; text-align: center; margin: 40px 0; page-break-before: always; }}
-    h2 {{ font-size: 24pt; margin-top: 60px; margin-bottom: 20px; border-bottom: 2px solid #333; page-break-before: always; }}
+    h1 {{ font-size: 32pt; text-align: center; margin: 40px 0; }}
+    h2 {{ font-size: 24pt; margin-top: 60px; margin-bottom: 20px; border-bottom: 2px solid #333; }}
     h3 {{ font-size: 20pt; margin-top: 40px; margin-bottom: 15px; color: #555; }}
     .hexagram-symbol {{ font-size: 48pt; text-align: center; margin: 20px 0; }}
     .section {{ margin: 30px 0; padding: 20px; border-left: 4px solid #ddd; }}
@@ -199,7 +199,6 @@ def _build_html(
     .commentary {{ margin: 10px 0 30px 40px; color: #444; font-size: 18pt; }}
     .transformation {{ margin: 25px 0; padding: 15px; background-color: #f9f9f9; border-radius: 5px; }}
     .transformation-header {{ font-weight: bold; font-size: 22pt; margin-bottom: 10px; color: #333; }}
-    @media print {{ body {{ margin: 0; padding: 40px; }} h1, h2 {{ page-break-after: avoid; }} .section {{ page-break-inside: avoid; }} }}
   </style>
 </head>
 <body>

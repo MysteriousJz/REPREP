@@ -117,11 +117,7 @@ def generate_html(
       font-size: 18pt;
       border-bottom: 1px solid #333;
       margin: 0 0 0.15in 0;
-      page-break-before: always;
-      break-before: page;
     }}
-
-    .major-section {{ page-break-inside: avoid; break-inside: avoid-page; }}
 
     .section-grid {{
       display: grid;
@@ -132,8 +128,6 @@ def generate_html(
       display: grid;
       grid-template-columns: 1fr 1fr;
       column-gap: 0.4in;
-      page-break-inside: avoid;
-      break-inside: avoid;
       border-bottom: 1px dotted #ddd;
       padding: 0.06in 0;
     }}
@@ -159,8 +153,6 @@ def generate_html(
       border-radius: 6px;
       margin: 0 0 0.16in 0;
       padding: 0.08in;
-      break-inside: avoid;
-      page-break-inside: avoid;
       background: #fcfcfc;
     }}
 
@@ -185,8 +177,6 @@ def generate_html(
       border: 1px solid #ddd;
       padding: 0.08in;
       border-radius: 4px;
-      break-inside: avoid;
-      page-break-inside: avoid;
       background: #fafafa;
     }}
 
@@ -195,9 +185,6 @@ def generate_html(
     .glossary-definition {{ font-size: {PRINT_LAYOUT.glossary_definition}; margin-top: 0.03in; }}
     .glossary-locations {{ font-size: {PRINT_LAYOUT.glossary_locations}; color: #666; margin-top: 0.03in; font-family: monospace; }}
 
-    @media print {{
-      h2 {{ page-break-after: avoid; break-after: avoid-page; }}
-    }}
   </style>
 </head>
 <body>
