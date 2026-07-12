@@ -33,6 +33,8 @@ def _parse_number_range(token: str) -> list[int]:
 
 def _parse_selection(args: argparse.Namespace, source_dir: Path) -> list[int]:
     if args.number is not None:
+        if args.number < 1:
+            raise ValueError("Hexagram number must be at least 1")
         return [args.number]
     if args.numbers:
         numbers: list[int] = []
@@ -84,6 +86,7 @@ def main() -> int:
     html_dir = output_dir / "html"
     json_dir.mkdir(parents=True, exist_ok=True)
     html_dir.mkdir(parents=True, exist_ok=True)
+    generated_at = datetime.now(timezone.utc).isoformat()
 
     numbers = _parse_selection(args, source_dir)
     if not numbers:
@@ -104,7 +107,7 @@ def main() -> int:
             write_json(json_dir / line_output_name(hexagram.number, hexagram.titles.main_title, "json"), hexagram_to_dict(hexagram))
         write_json(json_dir / "all_hexagrams.json", all_hexagrams_to_dict(extracted, metadata))
         write_json(DEFAULT_METADATA_PATH if output_dir == DEFAULT_JSON_DIR else output_dir / "metadata.json", {
-            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "generated_at": generated_at,
             **metadata,
         })
 
