@@ -119,11 +119,10 @@ def main() -> int:
             )
 
     print(f"[ok] Processed {len(extracted)} hexagram(s)")
-    for source, hexagram in zip(source_files, extracted, strict=False):
+    for source, hexagram in zip(source_files, extracted, strict=True):
         print(f" - {hexagram.number}: {hexagram.titles.main_title} <- {source}")
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
