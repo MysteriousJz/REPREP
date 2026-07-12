@@ -117,7 +117,7 @@ def _is_editor_marker(text: str) -> bool:
 
 
 def parse_gnostic_hexagram(source_path: Path, number: int) -> GnosticHexagram:
-    html = source_path.read_text(encoding="utf-8", errors="ignore")
+    html = source_path.read_text(encoding="latin-1")
     soup = BeautifulSoup(html, "html.parser")
     container = _container_for_number(soup, number)
     if container is None:

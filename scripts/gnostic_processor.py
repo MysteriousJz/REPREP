@@ -33,14 +33,18 @@ def _parse_number_range(token: str) -> list[int]:
 
 def _parse_selection(args: argparse.Namespace, source_dir: Path) -> list[int]:
     if args.number is not None:
-        if args.number < 1:
-            raise ValueError("Hexagram number must be at least 1")
+        if args.number < 1 or args.number > 64:
+            raise ValueError("Hexagram number must be between 1 and 64")
         return [args.number]
     if args.numbers:
         numbers: list[int] = []
         for part in args.numbers.split(","):
             numbers.extend(_parse_number_range(part))
-        return sorted(set(numbers))
+        unique = sorted(set(numbers))
+        for number in unique:
+            if number < 1 or number > 64:
+                raise ValueError("Hexagram number must be between 1 and 64")
+        return unique
     discovered: list[int] = []
     for path in source_dir.rglob("*.htm*"):
         match = re.search(r"Hexagram\s+(\d+)", path.name, re.I) or re.search(r"hexagram(\d+)", path.name, re.I)
