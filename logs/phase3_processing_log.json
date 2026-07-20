@@ -1,19 +1,31 @@
 {
   "phase": 3,
-  "timestamp": "2026-06-28T22:52:41.803478+00:00",
+  "timestamp": "2026-06-29T20:17:21.850996+00:00",
   "requested_numbers": [
+    1,
+    2,
+    3,
     4,
+    5,
     6,
     7,
+    8,
     9,
     10,
+    11,
+    12,
     13,
+    14,
     15,
     16,
     17,
     18,
+    19,
+    20,
     21,
     22,
+    23,
+    24,
     25,
     26,
     27,
@@ -22,6 +34,9 @@
     30,
     31,
     32,
+    33,
+    34,
+    35,
     36,
     37,
     38,
@@ -29,6 +44,8 @@
     40,
     41,
     42,
+    43,
+    44,
     45,
     46,
     47,
@@ -57,17 +74,78 @@
   },
   "processed_hexagrams": [
     {
+      "number": 1,
+      "name": "乾",
+      "symbol": "䷀",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_01_乾.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 4,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 2,
+      "name": "坤",
+      "symbol": "䷁",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_02_坤.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 4,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 3,
+      "name": "屯",
+      "symbol": "䷂",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_03_屯.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
       "number": 4,
       "name": "蒙",
       "symbol": "䷃",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_04_蒙.html",
       "statistics": {
-        "unique_characters_in_glossary": 786,
-        "total_glossary_entries": 786,
-        "total_chinese_characters": 2500,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 786
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 5,
+      "name": "需",
+      "symbol": "䷄",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_05_需.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -76,12 +154,13 @@
       "symbol": "䷅",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_06_讼.html",
       "statistics": {
-        "unique_characters_in_glossary": 794,
-        "total_glossary_entries": 794,
-        "total_chinese_characters": 2454,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 792
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -90,12 +169,28 @@
       "symbol": "䷆",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_07_师.html",
       "statistics": {
-        "unique_characters_in_glossary": 800,
-        "total_glossary_entries": 800,
-        "total_chinese_characters": 2290,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 797
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 8,
+      "name": "比",
+      "symbol": "䷇",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_08_比.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -104,12 +199,13 @@
       "symbol": "䷈",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_09_小畜.html",
       "statistics": {
-        "unique_characters_in_glossary": 795,
-        "total_glossary_entries": 795,
-        "total_chinese_characters": 2787,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 792
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -118,12 +214,43 @@
       "symbol": "䷉",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_10_履.html",
       "statistics": {
-        "unique_characters_in_glossary": 781,
-        "total_glossary_entries": 781,
-        "total_chinese_characters": 2243,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 778
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 11,
+      "name": "泰",
+      "symbol": "䷊",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_11_泰.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 12,
+      "name": "否",
+      "symbol": "䷋",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_12_否.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -132,12 +259,28 @@
       "symbol": "䷌",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_13_同人.html",
       "statistics": {
-        "unique_characters_in_glossary": 789,
-        "total_glossary_entries": 789,
-        "total_chinese_characters": 2538,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 787
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 14,
+      "name": "大有",
+      "symbol": "䷍",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_14_大有.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -146,12 +289,13 @@
       "symbol": "䷎",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_15_谦.html",
       "statistics": {
-        "unique_characters_in_glossary": 760,
-        "total_glossary_entries": 760,
-        "total_chinese_characters": 2172,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 758
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -160,12 +304,13 @@
       "symbol": "䷏",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_16_豫.html",
       "statistics": {
-        "unique_characters_in_glossary": 776,
-        "total_glossary_entries": 776,
-        "total_chinese_characters": 2173,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 774
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -174,12 +319,13 @@
       "symbol": "䷐",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_17_随.html",
       "statistics": {
-        "unique_characters_in_glossary": 775,
-        "total_glossary_entries": 775,
-        "total_chinese_characters": 2353,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 772
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -188,12 +334,43 @@
       "symbol": "䷑",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_18_蛊.html",
       "statistics": {
-        "unique_characters_in_glossary": 755,
-        "total_glossary_entries": 755,
-        "total_chinese_characters": 2266,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 751
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 19,
+      "name": "临",
+      "symbol": "䷒",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_19_临.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 20,
+      "name": "观",
+      "symbol": "䷓",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_20_观.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -202,12 +379,13 @@
       "symbol": "䷔",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_21_噬嗑.html",
       "statistics": {
-        "unique_characters_in_glossary": 799,
-        "total_glossary_entries": 799,
-        "total_chinese_characters": 2435,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 797
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -216,12 +394,43 @@
       "symbol": "䷕",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_22_贲.html",
       "statistics": {
-        "unique_characters_in_glossary": 775,
-        "total_glossary_entries": 775,
-        "total_chinese_characters": 2314,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 770
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 23,
+      "name": "剥",
+      "symbol": "䷖",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_23_剥.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 24,
+      "name": "复",
+      "symbol": "䷗",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_24_复.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -230,12 +439,13 @@
       "symbol": "䷘",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_25_无妄.html",
       "statistics": {
-        "unique_characters_in_glossary": 799,
-        "total_glossary_entries": 799,
-        "total_chinese_characters": 2513,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 799
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -244,12 +454,13 @@
       "symbol": "䷙",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_26_大畜.html",
       "statistics": {
-        "unique_characters_in_glossary": 792,
-        "total_glossary_entries": 792,
-        "total_chinese_characters": 2577,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 790
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -258,12 +469,13 @@
       "symbol": "䷚",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_27_颐.html",
       "statistics": {
-        "unique_characters_in_glossary": 753,
-        "total_glossary_entries": 753,
-        "total_chinese_characters": 2351,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 750
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -272,12 +484,13 @@
       "symbol": "䷛",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_28_大过.html",
       "statistics": {
-        "unique_characters_in_glossary": 745,
-        "total_glossary_entries": 745,
-        "total_chinese_characters": 2306,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 745
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -286,12 +499,13 @@
       "symbol": "䷜",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_29_坎.html",
       "statistics": {
-        "unique_characters_in_glossary": 793,
-        "total_glossary_entries": 793,
-        "total_chinese_characters": 2638,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 792
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -300,12 +514,13 @@
       "symbol": "䷝",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_30_离.html",
       "statistics": {
-        "unique_characters_in_glossary": 735,
-        "total_glossary_entries": 735,
-        "total_chinese_characters": 2289,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 733
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -314,12 +529,13 @@
       "symbol": "䷞",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_31_咸.html",
       "statistics": {
-        "unique_characters_in_glossary": 748,
-        "total_glossary_entries": 748,
-        "total_chinese_characters": 2220,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 746
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -328,12 +544,58 @@
       "symbol": "䷟",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_32_恒.html",
       "statistics": {
-        "unique_characters_in_glossary": 760,
-        "total_glossary_entries": 760,
-        "total_chinese_characters": 2373,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 759
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 33,
+      "name": "遯",
+      "symbol": "䷠",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_33_遯.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 34,
+      "name": "大壮",
+      "symbol": "䷡",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_34_大壮.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 35,
+      "name": "晋",
+      "symbol": "䷢",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_35_晋.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -342,12 +604,13 @@
       "symbol": "䷣",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_36_明夷.html",
       "statistics": {
-        "unique_characters_in_glossary": 721,
-        "total_glossary_entries": 721,
-        "total_chinese_characters": 2301,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 720
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -356,12 +619,13 @@
       "symbol": "䷤",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_37_家人.html",
       "statistics": {
-        "unique_characters_in_glossary": 779,
-        "total_glossary_entries": 779,
-        "total_chinese_characters": 2430,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 779
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -370,12 +634,13 @@
       "symbol": "䷥",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_38_睽.html",
       "statistics": {
-        "unique_characters_in_glossary": 818,
-        "total_glossary_entries": 818,
-        "total_chinese_characters": 2548,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 815
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -384,12 +649,13 @@
       "symbol": "䷦",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_39_蹇.html",
       "statistics": {
-        "unique_characters_in_glossary": 730,
-        "total_glossary_entries": 730,
-        "total_chinese_characters": 2204,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 729
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -398,12 +664,13 @@
       "symbol": "䷧",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_40_解.html",
       "statistics": {
-        "unique_characters_in_glossary": 750,
-        "total_glossary_entries": 750,
-        "total_chinese_characters": 2384,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 747
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -412,12 +679,13 @@
       "symbol": "䷨",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_41_损.html",
       "statistics": {
-        "unique_characters_in_glossary": 805,
-        "total_glossary_entries": 805,
-        "total_chinese_characters": 2583,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 802
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -426,12 +694,43 @@
       "symbol": "䷩",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_42_益.html",
       "statistics": {
-        "unique_characters_in_glossary": 762,
-        "total_glossary_entries": 762,
-        "total_chinese_characters": 2590,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 760
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 43,
+      "name": "夬",
+      "symbol": "䷪",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_43_夬.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
+      }
+    },
+    {
+      "number": 44,
+      "name": "姤",
+      "symbol": "䷫",
+      "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_44_姤.html",
+      "statistics": {
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -440,12 +739,13 @@
       "symbol": "䷬",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_45_萃.html",
       "statistics": {
-        "unique_characters_in_glossary": 767,
-        "total_glossary_entries": 767,
-        "total_chinese_characters": 2448,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 767
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -454,12 +754,13 @@
       "symbol": "䷭",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_46_升.html",
       "statistics": {
-        "unique_characters_in_glossary": 702,
-        "total_glossary_entries": 702,
-        "total_chinese_characters": 2064,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 699
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -468,12 +769,13 @@
       "symbol": "䷮",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_47_困.html",
       "statistics": {
-        "unique_characters_in_glossary": 822,
-        "total_glossary_entries": 822,
-        "total_chinese_characters": 2848,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 821
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -482,12 +784,13 @@
       "symbol": "䷯",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_48_井.html",
       "statistics": {
-        "unique_characters_in_glossary": 787,
-        "total_glossary_entries": 787,
-        "total_chinese_characters": 2313,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 785
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -496,12 +799,13 @@
       "symbol": "䷰",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_49_革.html",
       "statistics": {
-        "unique_characters_in_glossary": 770,
-        "total_glossary_entries": 770,
-        "total_chinese_characters": 2445,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 768
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -510,12 +814,13 @@
       "symbol": "䷱",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_50_鼎.html",
       "statistics": {
-        "unique_characters_in_glossary": 821,
-        "total_glossary_entries": 821,
-        "total_chinese_characters": 2566,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 821
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -524,12 +829,13 @@
       "symbol": "䷲",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_51_震.html",
       "statistics": {
-        "unique_characters_in_glossary": 827,
-        "total_glossary_entries": 827,
-        "total_chinese_characters": 2366,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 824
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -538,12 +844,13 @@
       "symbol": "䷳",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_52_艮.html",
       "statistics": {
-        "unique_characters_in_glossary": 766,
-        "total_glossary_entries": 766,
-        "total_chinese_characters": 2309,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 762
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -552,12 +859,13 @@
       "symbol": "䷴",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_53_渐.html",
       "statistics": {
-        "unique_characters_in_glossary": 764,
-        "total_glossary_entries": 764,
-        "total_chinese_characters": 2289,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 761
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -566,12 +874,13 @@
       "symbol": "䷵",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_54_归妹.html",
       "statistics": {
-        "unique_characters_in_glossary": 911,
-        "total_glossary_entries": 911,
-        "total_chinese_characters": 3969,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 910
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -580,12 +889,13 @@
       "symbol": "䷶",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_55_丰.html",
       "statistics": {
-        "unique_characters_in_glossary": 798,
-        "total_glossary_entries": 798,
-        "total_chinese_characters": 2639,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 794
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -594,12 +904,13 @@
       "symbol": "䷷",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_56_旅.html",
       "statistics": {
-        "unique_characters_in_glossary": 832,
-        "total_glossary_entries": 832,
-        "total_chinese_characters": 2426,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 829
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -608,12 +919,13 @@
       "symbol": "䷸",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_57_巽.html",
       "statistics": {
-        "unique_characters_in_glossary": 781,
-        "total_glossary_entries": 781,
-        "total_chinese_characters": 2258,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 779
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -622,12 +934,13 @@
       "symbol": "䷹",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_58_兑.html",
       "statistics": {
-        "unique_characters_in_glossary": 745,
-        "total_glossary_entries": 745,
-        "total_chinese_characters": 2025,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 744
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -636,12 +949,13 @@
       "symbol": "䷺",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_59_涣.html",
       "statistics": {
-        "unique_characters_in_glossary": 741,
-        "total_glossary_entries": 741,
-        "total_chinese_characters": 2150,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 740
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -650,12 +964,13 @@
       "symbol": "䷻",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_60_节.html",
       "statistics": {
-        "unique_characters_in_glossary": 728,
-        "total_glossary_entries": 728,
-        "total_chinese_characters": 2001,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 726
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -664,12 +979,13 @@
       "symbol": "䷼",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_61_中孚.html",
       "statistics": {
-        "unique_characters_in_glossary": 823,
-        "total_glossary_entries": 823,
-        "total_chinese_characters": 2444,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 823
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -678,12 +994,13 @@
       "symbol": "䷽",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_62_小过.html",
       "statistics": {
-        "unique_characters_in_glossary": 798,
-        "total_glossary_entries": 798,
-        "total_chinese_characters": 2641,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 795
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -692,12 +1009,13 @@
       "symbol": "䷾",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_63_既济.html",
       "statistics": {
-        "unique_characters_in_glossary": 821,
-        "total_glossary_entries": 821,
-        "total_chinese_characters": 2423,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 818
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     },
     {
@@ -706,28 +1024,41 @@
       "symbol": "䷿",
       "output_file": "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_64_未济.html",
       "statistics": {
-        "unique_characters_in_glossary": 794,
-        "total_glossary_entries": 794,
-        "total_chinese_characters": 2514,
+        "unique_characters_in_glossary": 0,
+        "total_glossary_entries": 0,
+        "total_chinese_characters": 0,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 790
+        "characters_with_definitions": 0,
+        "glossary_included": false
       }
     }
   ],
   "generated_files": [
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_01_乾.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_02_坤.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_03_屯.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_04_蒙.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_05_需.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_06_讼.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_07_师.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_08_比.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_09_小畜.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_10_履.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_11_泰.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_12_否.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_13_同人.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_14_大有.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_15_谦.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_16_豫.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_17_随.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_18_蛊.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_19_临.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_20_观.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_21_噬嗑.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_22_贲.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_23_剥.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_24_复.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_25_无妄.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_26_大畜.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_27_颐.html",
@@ -736,6 +1067,9 @@
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_30_离.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_31_咸.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_32_恒.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_33_遯.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_34_大壮.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_35_晋.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_36_明夷.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_37_家人.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_38_睽.html",
@@ -743,6 +1077,8 @@
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_40_解.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_41_损.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_42_益.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_43_夬.html",
+    "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_44_姤.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_45_萃.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_46_升.html",
     "/home/anon/氣逷辵反道氏易林/REPREP/output/hexagram_47_困.html",
@@ -776,12 +1112,13 @@
     "scripts/README.md"
   ],
   "statistics": {
-    "unique_characters_in_glossary": 794,
-    "total_glossary_entries": 794,
-    "total_chinese_characters": 2514,
+    "unique_characters_in_glossary": 0,
+    "total_glossary_entries": 0,
+    "total_chinese_characters": 0,
     "estimated_page_count": 3,
     "sections_with_pinyin": 8,
-    "characters_with_definitions": 790
+    "characters_with_definitions": 0,
+    "glossary_included": false
   },
   "validation": {
     "all_scripts_created": true,
