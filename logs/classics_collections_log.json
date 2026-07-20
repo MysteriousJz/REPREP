@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-07-20T23:57:20.709061+00:00",
+  "documents": [
+    {
+      "filename": "/home/runner/work/REPREP/REPREP/output/daodejing_collection.html",
+      "title": "Daodejing Collection",
+      "sections": 6
+    },
+    {
+      "filename": "/home/runner/work/REPREP/REPREP/output/yijing_commentaries_anthology.html",
+      "title": "Yijing Commentaries Anthology",
+      "sections": 1
+    },
+    {
+      "filename": "/home/runner/work/REPREP/REPREP/output/tcm_classics_collection.html",
+      "title": "TCM Classics Collection",
+      "sections": 4
+    }
+  ],
+  "assumptions": [
+    "The repository includes OCR-heavy 老子道德經 pages, but they do not split cleanly by chapter; the Laozi pairing uses the cleaner xtra/道德真經註 edition plus xtra/河上公老子注 instead.",
+    "The Ten Wings anthology uses the dedicated xtra files present in this snapshot; the repository does not contain standalone xtra files for every named subsection."
+  ]
+}
