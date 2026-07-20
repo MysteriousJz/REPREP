@@ -57,3 +57,16 @@ Outputs:
 - `output/metadata.json`
 - `output/glossary.html`
 
+## Classical anthology builder
+
+Generate the three requested print-ready anthology files with no glossary:
+
+```bash
+python scripts/process_classics_collections.py --output output
+```
+
+Outputs:
+
+- `output/daodejing_collection.html`
+- `output/yijing_commentaries_anthology.html`
+- `output/tcm_classics_collection.html`
