@@ -211,14 +211,6 @@ def _render_document(spec: DocumentSpec, lookup: dict[str, object]) -> str:
       break-inside: avoid;
     }}
 
-    .file-section, .paired-section {{
-      break-before: page;
-    }}
-
-    .file-section:first-of-type, .paired-section:first-of-type {{
-      break-before: auto;
-    }}
-
     .source-block {{
       margin: 0 0 0.18in 0;
       padding: 0.08in 0 0.02in 0;
