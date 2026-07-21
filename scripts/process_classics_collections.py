@@ -289,17 +289,35 @@ DOCUMENTS = (
                     SourceSpec(_xtra_file("周易注 _ 說卦卷九周易·雜卦》第十一 - 中國哲學書電子化計劃.html")),
                 ),
             ),
+            FileSectionSpec("焦氏易詁", (SourceSpec(REPO_ROOT / "焦氏易诂"),)),
+            FileSectionSpec("易林補遺", (SourceSpec(REPO_ROOT / "易林補遺"),)),
+            FileSectionSpec("火珠林", (SourceSpec(REPO_ROOT / "火珠林"),)),
         ),
     ),
     DocumentSpec(
-        filename="tcm_classics_collection.html",
-        title="TCM Classics Collection",
-        sections=(
-            FileSectionSpec("黃帝內經", (SourceSpec(REPO_ROOT / "黃帝內經"),), recursive=True),
-            FileSectionSpec("難經", (SourceSpec(REPO_ROOT / "難經"),), recursive=True),
-            FileSectionSpec("傷寒論", (SourceSpec(REPO_ROOT / "傷寒論"),), recursive=True),
-            FileSectionSpec("金匱要略", (SourceSpec(REPO_ROOT / "金匱要略"),), recursive=True),
-        ),
+        filename="huangdi_neijing_suwen.html",
+        title="Huangdi Neijing · Suwen",
+        sections=(FileSectionSpec("素問", (SourceSpec(REPO_ROOT / "黃帝內經" / "素問"),)),),
+    ),
+    DocumentSpec(
+        filename="huangdi_neijing_lingshujing.html",
+        title="Huangdi Neijing · Ling Shu Jing",
+        sections=(FileSectionSpec("靈樞經", (SourceSpec(REPO_ROOT / "黃帝內經" / "靈樞經 "),)),),
+    ),
+    DocumentSpec(
+        filename="nanjing.html",
+        title="Nan Jing",
+        sections=(FileSectionSpec("難經", (SourceSpec(REPO_ROOT / "難經"),)),),
+    ),
+    DocumentSpec(
+        filename="shanghanlun.html",
+        title="Shang Han Lun",
+        sections=(FileSectionSpec("傷寒論", (SourceSpec(REPO_ROOT / "傷寒論"),)),),
+    ),
+    DocumentSpec(
+        filename="jinkuiyaolue.html",
+        title="Jin Kui Yao Lue",
+        sections=(FileSectionSpec("金匱要略", (SourceSpec(REPO_ROOT / "金匱要略"),)),),
     ),
 )
 
