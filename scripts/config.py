@@ -89,6 +89,14 @@ PRINT_LAYOUT = PrintLayout()
 
 def resolve_source_file(repo_root: Path, hexagram_number: int) -> Path:
     """Resolve source Phase-2 HTML file path for a given hexagram number."""
+    mapping = load_hexagram_mapping(repo_root)
+    hexagram_entry = mapping.get("hexagrams", {}).get(str(hexagram_number), {})
+    exact_name = str(hexagram_entry.get("chinese_name", "")).strip()
+    if exact_name:
+        exact_path = repo_root / f"hexagram_{hexagram_number:02d}_{exact_name}.html"
+        if exact_path.exists():
+            return exact_path
+
     candidates = sorted(
         repo_root.glob(f"hexagram_{hexagram_number:02d}_*.html"),
         key=lambda p: p.name,

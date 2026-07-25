@@ -108,6 +108,18 @@ def _canonical_name(name: str) -> str:
     return _NAME_ALIASES.get(name, name)
 
 
+def _extract_transformation_label(title: str) -> str:
+    match = re.search(r"\(([^()]+之[^()]+)\)\s*$", title)
+    if match:
+        return match.group(1)
+
+    match = re.search(r"([^\s]+之[^\s]+)\s*$", title)
+    if match:
+        return match.group(1)
+
+    return title
+
+
 def _known_hexagram_names(repo_root: Path) -> set[str]:
     mapping = json.loads((repo_root / "hexagram_file_mapping.json").read_text(encoding="utf-8"))
     return {str(entry.get("chinese_name", "")) for entry in mapping.get("hexagrams", {}).values() if entry.get("chinese_name")}
@@ -168,7 +180,8 @@ def attach_forest_commentaries(extracted: ExtractedHexagram, commentaries: dict[
 
     pointer = 0
     for transformation in extracted.transformations:
-        target_label = _canonical_name(_extract_target_label(transformation.title.rsplit("之", 1)[-1]))
+        transformation_label = _extract_transformation_label(transformation.title)
+        target_label = _canonical_name(_extract_target_label(transformation_label))
 
         chosen = ""
         for idx in range(pointer, len(raw_rows)):

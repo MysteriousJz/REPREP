@@ -21,6 +21,73 @@ SECTION_TITLES = {
     "焦氏易林": "八、焦氏易林 (Forest of Fates - All 64 Transformations)",
 }
 
+HEXAGRAM_HEADINGS = {
+    1: "Sky over Sky",
+    2: "Earth over Earth",
+    3: "Thunder over Water",
+    4: "Mountain over Water",
+    5: "Water over Sky",
+    6: "Sky over Water",
+    7: "Earth over Water",
+    8: "Water over Earth",
+    9: "Wind over Sky",
+    10: "Lake over Sky",
+    11: "Sky over Earth",
+    12: "Earth over Sky",
+    13: "Sky over Fire",
+    14: "Fire over Sky",
+    15: "Earth over Mountain",
+    16: "Thunder over Earth",
+    17: "Thunder over Lake",
+    18: "Mountain over Wind",
+    19: "Earth over Lake",
+    20: "Wind over Earth",
+    21: "Fire over Thunder",
+    22: "Mountain over Fire",
+    23: "Mountain over Earth",
+    24: "Earth over Thunder",
+    25: "Sky over Thunder",
+    26: "Mountain over Sky",
+    27: "Mountain over Thunder",
+    28: "Lake over Wind",
+    29: "Water over Water",
+    30: "Fire over Fire",
+    31: "Lake over Mountain",
+    32: "Thunder over Wind",
+    33: "Mountain over Sky",
+    34: "Thunder over Sky",
+    35: "Fire over Earth",
+    36: "Earth over Fire",
+    37: "Wind over Fire",
+    38: "Fire over Lake",
+    39: "Water over Mountain",
+    40: "Thunder over Water",
+    41: "Mountain over Lake",
+    42: "Wind over Thunder",
+    43: "Lake over Sky",
+    44: "Sky over Wind",
+    45: "Earth over Lake",
+    46: "Earth over Wind",
+    47: "Lake over Water",
+    48: "Water over Wind",
+    49: "Lake over Fire",
+    50: "Fire over Wind",
+    51: "Thunder over Thunder",
+    52: "Mountain over Mountain",
+    53: "Wind over Mountain",
+    54: "Thunder over Lake",
+    55: "Thunder over Fire",
+    56: "Mountain over Fire",
+    57: "Wind over Wind",
+    58: "Lake over Lake",
+    59: "Wind over Water",
+    60: "Water over Lake",
+    61: "Wind over Lake",
+    62: "Thunder over Mountain",
+    63: "Water over Fire",
+    64: "Fire over Water",
+}
+
 LINE_RE = re.compile(r"^(?:初|六|九|上|用)[^：:]*[：:]")
 
 
@@ -109,6 +176,7 @@ def _build_html(
     symbol: str,
     name: str,
     pinyin: str,
+    source_heading: str,
     palace: str,
     palace_position: int,
     zhou_yi: tuple[dict[str, list[str]], list[tuple[int, str, str, str]], list[str]],
@@ -231,6 +299,7 @@ def main() -> int:
         symbol = hexagram["symbol"]
         name = hexagram["chinese_name"]
         pinyin = hexagram["pinyin_name"]
+        source_heading = HEXAGRAM_HEADINGS[number]
         palace = hexagram["palace"]
         palace_position = hexagram["palace_position"]
 
@@ -243,8 +312,9 @@ def main() -> int:
         for index, row in enumerate(forest_rows, start=1):
             content = row[-1]
             target = names[index]
+            target_heading = HEXAGRAM_HEADINGS[index]
             poem = re.sub(r"^[^：:]+[：:]\s*", "", content)
-            transformations.append((f"{name}之{target}", poem))
+            transformations.append((f"{source_heading} to {target_heading} ({name}之{target})", poem))
 
         output_path = args.repo_root / f"hexagram_{number:02d}_{name}.html"
         output_path.write_text(
@@ -253,6 +323,7 @@ def main() -> int:
                 symbol,
                 name,
                 pinyin,
+                source_heading,
                 palace,
                 palace_position,
                 zhou_yi,
