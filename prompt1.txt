@@ -1,0 +1,283 @@
+# PROMPT: FINALIZE ALL 64 HEXAGRAMS WITH CORRECT NAMING
+
+---
+
+You are the same master translator who successfully completed the first two hexagrams of this project. Your work on Hexagrams 1 (Sky over Sky) and 2 (Earth over Earth) was exemplary—the two-persona approach works beautifully, the translations are accurate and distinct, and the HTML structure is clean and print-ready.
+
+**You are now tasked with completing the remaining 62 hexagrams with a critical naming correction applied.**
+
+---
+
+## CONGRATULATIONS ON YOUR SUCCESS SO FAR
+
+Your translations of the Wenyan, Jing Fang's Yi Tradition, and all 64 Forest of Changes transformations for the first two hexagrams demonstrate that you fully understand:
+
+- The **Philologist** voice—literal, technical, preserving structure
+- The **Commentator** voice—flowing, explanatory, historically aware
+- The need to preserve DeKorne's content exactly
+- The HTML requirements (no page breaks, clean styling)
+- The need to explain historical allusions naturally
+
+**One habit needs to be corrected for all remaining hexagrams: the naming of the Forest of Changes transformations.**
+
+---
+
+## THE CRITICAL CORRECTION: FOREST OF CHANGES NAMING
+
+### Current (Incorrect) Pattern Used in Hexagrams 1 & 2:
+
+```
+<h4>1. Kun → Qian / The Dynamic (坤之乾)</h4>
+<h4>2. Qian → The Receptive (乾之坤)</h4>
+<h4>3. Qian → Difficulty at the Beginning (乾之屯)</h4>
+```
+
+### Required (Correct) Pattern for ALL Transformations:
+
+```
+<h4>1. Earth over Earth to Sky over Sky (坤之乾)</h4>
+<h4>2. Sky over Sky to Earth over Earth (乾之坤)</h4>
+<h4>3. Sky over Sky to Thunder over Water (乾之屯)</h4>
+```
+
+### The Rule:
+
+**Every hexagram and every transformation is identified by BOTH trigrams. No exceptions.**
+
+- ❌ "The Dynamic" → **Sky over Sky**
+- ❌ "The Receptive" → **Earth over Earth**
+- ❌ "Difficulty at the Beginning" → **Thunder over Water**
+- ❌ "Qian → The Receptive" → **Sky over Sky to Earth over Earth**
+
+**Keep the Chinese label in parentheses**—it's tasteful and provides a reference point for those who know the traditional names. But the PRIMARY name, the one that appears as the heading, must be the trigram/trigram format.
+
+---
+
+## THE COMPLETE REFERENCE FRAMEWORK (Include in Every Hexagram's Translation)
+
+### The Eight Trigrams (The "Eight Immortals" of the Yijing)
+
+| Chinese | English |
+|---------|---------|
+| 乾 | Sky |
+| 坤 | Earth |
+| 震 | Thunder |
+| 巽 | Wind |
+| 坎 | Water |
+| 離 | Fire |
+| 艮 | Mountain |
+| 兌 | Lake |
+
+### The Five Phases (五行)
+
+| Chinese | English |
+|---------|---------|
+| 木 | Wood |
+| 火 | Fire |
+| 土 | Earth (as a phase, not the trigram) |
+| 金 | Metal |
+| 水 | Water (as a phase, not the trigram) |
+
+**Note:** When 土 or 水 appear in technical/calendrical contexts (Jing Fang), translate as "earth" and "water" phases. When they appear as trigrams, they are "Earth" and "Water" (capitalized). Context will guide you.
+
+### The Four Images (四象)
+
+| Chinese | English |
+|---------|---------|
+| 少陽 | Lesser Day |
+| 少陰 | Lesser Night |
+| 太陽 | Greater Day |
+| 太陰 | Greater Night |
+
+### The Two Primal Forces (兩儀)
+
+| Chinese | English |
+|---------|---------|
+| 陽 | Day |
+| 陰 | Night |
+
+### Always Capitalize:
+- Sky, Earth, Thunder, Wind, Water, Fire, Mountain, Lake (trigrams)
+- Day, Night (primal forces)
+- Wood, Fire, Earth, Metal, Water (phases—only when clearly referring to phases in technical contexts)
+
+### Hexagram Identification Format
+
+**Every hexagram is "[Trigram] over [Trigram]":**
+
+| Hexagram | Chinese Name | Trigram Format |
+|----------|--------------|----------------|
+| 1 | 乾 | Sky over Sky |
+| 2 | 坤 | Earth over Earth |
+| 3 | 屯 | Thunder over Water |
+| 4 | 蒙 | Mountain over Water |
+| 5 | 需 | Water over Sky |
+| 6 | 訟 | Sky over Water |
+| 7 | 師 | Earth over Water |
+| 8 | 比 | Water over Earth |
+| 9 | 小畜 | Wind over Sky |
+| 10 | 履 | Lake over Sky |
+| 11 | 泰 | Sky over Earth |
+| 12 | 否 | Earth over Sky |
+| 13 | 同人 | Sky over Fire |
+| 14 | 大有 | Fire over Sky |
+| 15 | 謙 | Earth over Mountain |
+| 16 | 豫 | Thunder over Earth |
+| 17 | 隨 | Thunder over Lake |
+| 18 | 蠱 | Mountain over Wind |
+| 19 | 臨 | Earth over Lake |
+| 20 | 觀 | Wind over Earth |
+| 21 | 噬嗑 | Fire over Thunder |
+| 22 | 賁 | Mountain over Fire |
+| 23 | 剝 | Mountain over Earth |
+| 24 | 復 | Earth over Thunder |
+| 25 | 無妄 | Sky over Thunder |
+| 26 | 大畜 | Mountain over Sky |
+| 27 | 頤 | Mountain over Thunder |
+| 28 | 大過 | Lake over Wind |
+| 29 | 坎 | Water over Water |
+| 30 | 離 | Fire over Fire |
+| 31 | 咸 | Lake over Mountain |
+| 32 | 恆 | Thunder over Wind |
+| 33 | 遯 | Mountain over Sky |
+| 34 | 大壯 | Thunder over Sky |
+| 35 | 晉 | Fire over Earth |
+| 36 | 明夷 | Earth over Fire |
+| 37 | 家人 | Wind over Fire |
+| 38 | 睽 | Fire over Lake |
+| 39 | 蹇 | Water over Mountain |
+| 40 | 解 | Thunder over Water |
+| 41 | 損 | Mountain over Lake |
+| 42 | 益 | Wind over Thunder |
+| 43 | 夬 | Lake over Sky |
+| 44 | 姤 | Sky over Wind |
+| 45 | 萃 | Earth over Lake |
+| 46 | 升 | Earth over Wood |
+| 47 | 困 | Lake over Water |
+| 48 | 井 | Water over Wind |
+| 49 | 革 | Lake over Fire |
+| 50 | 鼎 | Fire over Wind |
+| 51 | 震 | Thunder over Thunder |
+| 52 | 艮 | Mountain over Mountain |
+| 53 | 漸 | Wind over Mountain |
+| 54 | 歸妹 | Thunder over Lake |
+| 55 | 豐 | Thunder over Fire |
+| 56 | 旅 | Mountain over Fire |
+| 57 | 巽 | Wind over Wind |
+| 58 | 兌 | Lake over Lake |
+| 59 | 渙 | Wind over Water |
+| 60 | 節 | Water over Lake |
+| 61 | 中孚 | Wind over Lake |
+| 62 | 小過 | Thunder over Mountain |
+| 63 | 既濟 | Water over Fire |
+| 64 | 未濟 | Fire over Water |
+
+---
+
+## FOREST OF CHANGES NAMING PATTERN
+
+### For Hexagram 1 (Sky over Sky):
+
+| Transformation | Chinese Label | Heading |
+|----------------|---------------|---------|
+| 1 | 乾之乾 | Sky over Sky to Sky over Sky |
+| 2 | 乾之坤 | Sky over Sky to Earth over Earth |
+| 3 | 乾之屯 | Sky over Sky to Thunder over Water |
+| 4 | 乾之蒙 | Sky over Sky to Mountain over Water |
+| 5 | 乾之需 | Sky over Sky to Water over Sky |
+| ... | ... | ... |
+| 64 | 乾之未濟 | Sky over Sky to Fire over Water |
+
+### For Hexagram 46 (Earth over Wood):
+
+| Transformation | Chinese Label | Heading |
+|----------------|---------------|---------|
+| 1 | 升之乾 | Earth over Wood to Sky over Sky |
+| 2 | 升之坤 | Earth over Wood to Earth over Earth |
+| 3 | 升之屯 | Earth over Wood to Thunder over Water |
+| 4 | 升之蒙 | Earth over Wood to Mountain over Water |
+| ... | ... | ... |
+| 64 | 升之未濟 | Earth over Wood to Fire over Water |
+
+**The pattern for any hexagram is:**
+- **[Current Hexagram's Trigram/Trigram] to [Target Hexagram's Trigram/Trigram] (Chinese Label)**
+
+---
+
+## SECTIONS TO TRANSLATE (Repeat for Each Hexagram)
+
+### Order of Insertion After DeKorne:
+
+1. **文言 (Wenyan Commentary)** — ONLY for hexagrams 1 and 2 (Sky over Sky and Earth over Earth). If present, place it immediately after DeKorne's content.
+
+2. **京氏易傳 (Jing Fang's Yi Tradition)** — Present in EVERY hexagram. Both personas.
+
+3. **焦氏易林 (Jiao Yanshou's Forest of Changes)** — Present in EVERY hexagram. ALL 64 transformations. Each transformation includes:
+   - The verse (both personas)
+   - The commentary (both personas)
+
+---
+
+## OUTPUT STRUCTURE (Example)
+
+```html
+<section class="major-section">
+  <h2>Forest of Changes (焦氏易林) — All 64 Transformations</h2>
+  
+  <div class="line-block">
+    <h4>1. Earth over Earth to Sky over Sky (坤之乾)</h4>
+    <div class="text-row">
+      <div class="translator">Philologist</div>
+      <div class="text">[literal verse translation]</div>
+    </div>
+    <div class="text-row">
+      <div class="translator">Commentator</div>
+      <div class="text">[flowing verse translation]</div>
+    </div>
+    <div class="subsection">
+      <div class="text-row">
+        <div class="translator">Philologist</div>
+        <div class="text">[literal commentary translation]</div>
+      </div>
+      <div class="text-row">
+        <div class="translator">Commentator</div>
+        <div class="text">[flowing commentary translation]</div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- REPEAT FOR ALL 64 TRANSFORMATIONS -->
+</section>
+```
+
+---
+
+## SUMMARY OF REQUIREMENTS
+
+1. **NAMING:** Every hexagram and Forest transformation uses the full trigram/trigram format. The Chinese label remains in parentheses.
+
+2. **PERSONAS:** Two distinct voices—Philologist (literal, technical) and Commentator (flowing, explanatory).
+
+3. **DEKORNE:** Preserve his content exactly. Insert new translations after it.
+
+4. **WENYAN:** Only for hexagrams 1 and 2. Placed immediately after DeKorne.
+
+5. **JING FANG:** Every hexagram. Both personas.
+
+6. **FOREST:** Every hexagram. All 64 transformations. Verse + Commentary. Both personas.
+
+7. **HTML:** No page breaks. Simple styling. Print-friendly.
+
+8. **HISTORICAL ALLUSIONS:** The Commentator explains them naturally within the translation.
+
+9. **TECHNICAL TERMS:** The Philologist preserves them; the Commentator explains them.
+
+---
+
+## PROCEED
+
+Begin with Hexagram 3 (Thunder over Water) and work sequentially through Hexagram 64 (Fire over Water). Apply the naming correction to ALL Forest transformations.
+
+Your work on the first two hexagrams proves you can do this. Complete the remaining 62 with the same care and precision.
+
+**The full Yijing in English, with all commentary traditions, is nearly complete because of your work.**
