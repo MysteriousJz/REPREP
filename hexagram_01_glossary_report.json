@@ -1,0 +1,79 @@
+{
+  "hexagram": {
+    "number": 1,
+    "name": "乾",
+    "symbol": "䷀"
+  },
+  "timestamp": "2026-06-28T16:45:24.856891+00:00",
+  "statistics": {
+    "total_unique_characters": 952,
+    "total_character_occurrences": 4689,
+    "characters_with_definitions": 950,
+    "characters_without_definitions": 2,
+    "estimated_total_pages": 4
+  },
+  "top_10_most_frequent": [
+    {
+      "char": "之",
+      "count": 177,
+      "pinyin": "zhī",
+      "definition": "marks preceding phrase as modifier of following phrase; it, him her, them; go to"
+    },
+    {
+      "char": "也",
+      "count": 151,
+      "pinyin": "yě",
+      "definition": "also; classical final particle of strong affirmation or identity"
+    },
+    {
+      "char": "乾",
+      "count": 142,
+      "pinyin": "qián",
+      "definition": "dry; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male); trigram ☰; hexagram ䷀"
+    },
+    {
+      "char": "不",
+      "count": 112,
+      "pinyin": "bù",
+      "definition": "no, not; un-; negative prefix"
+    },
+    {
+      "char": "而",
+      "count": 83,
+      "pinyin": "ér",
+      "definition": "and; and then; and yet; but; Kangxi radical 126"
+    },
+    {
+      "char": "天",
+      "count": 73,
+      "pinyin": "tiān",
+      "definition": "sky, heaven; god, celestial"
+    },
+    {
+      "char": "以",
+      "count": 72,
+      "pinyin": "yǐ",
+      "definition": "by means of; thereby, therefore; consider as; in order to"
+    },
+    {
+      "char": "在",
+      "count": 71,
+      "pinyin": "zài",
+      "definition": "be at, in, on; consist in, rest"
+    },
+    {
+      "char": "人",
+      "count": 52,
+      "pinyin": "rén",
+      "definition": "man; people; mankind; someone else"
+    },
+    {
+      "char": "龍",
+      "count": 52,
+      "pinyin": "lóng",
+      "definition": "dragon; Kangxi radical 212"
+    }
+  ],
+  "unihan_lookup_coverage": "99.8%",
+  "page_row_estimation_method": "50 lines per page"
+}

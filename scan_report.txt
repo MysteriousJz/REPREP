@@ -1,0 +1,32 @@
+Hexagram File Scan Report
+========================
+Scan timestamp: 2026-06-28T16:16:28.816710+00:00
+
+Directory summary:
+- zhou_yi (周易): 64 HTML files
+- jing_fang (京氏易傳): 64 HTML files
+- wang_bi (周易注): 64 HTML files
+- forest_of_fates (焦氏易林): 64 HTML files
+- Total files: 256
+
+Questions addressed:
+1) Multiple files per hexagram in same directory: No
+2) Unmatched files that do not map to known hexagrams:
+   - Total unmatched files: 0
+   - zhou_yi: 0
+   - jing_fang: 0
+   - wang_bi: 0
+   - forest_of_fates: 0
+3) Do 京氏易傳 and 周易注 share the same organization as 周易?
+   - 京氏易傳: Yes, one file per hexagram and symbol-based naming like 周易.
+   - 周易注: One file per hexagram but uses commentary-volume naming and traditional variants.
+4) Naming consistency across directories:
+   - 周易 / 京氏易傳: ䷀-䷿ + hexagram name pattern.
+   - 焦氏易林: <hexagram>之 pattern.
+   - 周易注: title + 卷 metadata + terminal hexagram name.
+
+Missing files list:
+- None. All source files for all 64 hexagrams were found.
+
+Anomalies / unexpected patterns:
+- No unmatched files and no duplicate mappings were detected.

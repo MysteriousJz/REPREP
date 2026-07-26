@@ -1,0 +1,47 @@
+{
+  "hexagram": {
+    "number": 1,
+    "name": "乾",
+    "symbol": "䷀"
+  },
+  "timestamp": "2026-06-28T16:25:41.510791+00:00",
+  "files_processed": {
+    "zhou_yi": {
+      "path": "周易/周易 _ 易經 _ ䷀乾 - 中國哲學書電子化計劃.html",
+      "status": "success",
+      "sections_extracted": {
+        "judgment": 1,
+        "tuan": 1,
+        "xiang_overall": 1,
+        "lines": 7,
+        "wenyan": 1
+      },
+      "total_characters": 1340
+    },
+    "jing_fang": {
+      "path": "京氏易傳/Jingshi Yizhuan _ ䷀乾 - Chinese Text Project.html",
+      "status": "success",
+      "sections_extracted": 1,
+      "total_characters": 311
+    },
+    "wang_bi": {
+      "path": "周易注/周易注 _ 上經乾傳卷一乾 - 中國哲學書電子化計劃.html",
+      "status": "success",
+      "sections_extracted": 1,
+      "total_characters": 2922
+    },
+    "forest_of_fates": {
+      "path": "焦氏易林/Jiaoshi Yilin _ 乾之 - Chinese Text Project.html",
+      "status": "success",
+      "transformations_extracted": 64,
+      "total_characters": 1389
+    }
+  },
+  "validation": {
+    "all_sections_present": true,
+    "transformation_count": 64,
+    "html_valid": true,
+    "encoding": "UTF-8"
+  },
+  "warnings": []
+}
