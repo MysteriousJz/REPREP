@@ -112,8 +112,8 @@ The trigram/trigram format is the ONLY acceptable naming convention for all hexa
 
 ### FINAL ASSESSMENT
 
-**We are at 90% target.** The agent produced complete, usable translations with distinct personas. With the naming convention corrected in the prompt, the next run will be at 100%.
+**We are at 90% target.** The agent produced complete, usable translations with distinct personas. With the naming convention corrected and the remaining workflow kept translation-first, the next run will be at 100%.
 
 The two uploaded files (hexagram 1 and hexagram 2) prove the approach works. The agent understood the scope, the personas, the structure, and the technical demands.
 
-**The prompt is sound. One adjustment to the naming convention and we're done.**
+**The prompt is sound. One adjustment to the naming convention and a translation-first posture moving forward, and we're done.**

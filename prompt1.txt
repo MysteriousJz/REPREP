@@ -278,6 +278,6 @@ Your translations of the Wenyan, Jing Fang's Yi Tradition, and all 64 Forest of 
 
 Begin with Hexagram 3 (Thunder over Water) and work sequentially through Hexagram 64 (Fire over Water). Apply the naming correction to ALL Forest transformations.
 
-Your work on the first two hexagrams proves you can do this. Complete the remaining 62 with the same care and precision.
+Your work on the first two hexagrams proves you can do this. For the remaining 62, keep the workflow translation-first: mainly translate the text, and preserve the existing HTML and naming unless a correction is required.
 
 **The full Yijing in English, with all commentary traditions, is nearly complete because of your work.**
